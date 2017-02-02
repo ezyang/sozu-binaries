@@ -1,0 +1,7 @@
+pkgid: primitive-0.6.2.0
+src: b8e8d70213e22b3fab0e0d11525c02627489618988fdc636052ca0adce282ae1
+deps: base-4.5.1.0-6e4c9bdc36eeb9121f27ccbbcb62e3f3, ghc-prim-0.2.0.0-7d3c2c69a5e8257a04b2c679c40e2fa7, transformers-0.5.2.0-c8d623a763934e1be1e1e13519081c83610491d95552c2ec3ed86d455caf3364
+compilerid: ghc-7.4.2
+platform: x86_64-linux
+stripped-exe: False
+debug-info: 0
