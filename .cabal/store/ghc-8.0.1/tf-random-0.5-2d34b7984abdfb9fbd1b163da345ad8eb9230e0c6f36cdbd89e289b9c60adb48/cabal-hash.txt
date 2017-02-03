@@ -1,0 +1,8 @@
+pkgid: tf-random-0.5
+src: 2e30cec027b313c9e1794d326635d8fc5f79b6bf6e7580ab4b00186dadc88510
+deps: base-4.9.0.0, primitive-0.6.2.0-9e2de24b6c97582e92390d6c501ffba789200880c544ee709a4f7a59daac5ed7, random-1.1-4ab55ba0162167058f44706d8cc4912c4165112ce0faed51f61a93a84050ea13, time-1.6.0.1
+compilerid: ghc-8.0.1
+platform: x86_64-linux
+shared-lib: True
+stripped-exe: False
+debug-info: 0
