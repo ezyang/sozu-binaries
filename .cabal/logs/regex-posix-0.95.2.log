@@ -1,0 +1,17 @@
+Configuring regex-posix-0.95.2...
+Building regex-posix-0.95.2...
+Preprocessing library regex-posix-0.95.2...
+[1 of 6] Compiling Text.Regex.Posix.Wrap ( dist/build/Text/Regex/Posix/Wrap.hs, dist/build/Text/Regex/Posix/Wrap.o )
+[2 of 6] Compiling Text.Regex.Posix.String ( Text/Regex/Posix/String.hs, dist/build/Text/Regex/Posix/String.o )
+[3 of 6] Compiling Text.Regex.Posix.Sequence ( Text/Regex/Posix/Sequence.hs, dist/build/Text/Regex/Posix/Sequence.o )
+[4 of 6] Compiling Text.Regex.Posix.ByteString ( Text/Regex/Posix/ByteString.hs, dist/build/Text/Regex/Posix/ByteString.o )
+[5 of 6] Compiling Text.Regex.Posix.ByteString.Lazy ( Text/Regex/Posix/ByteString/Lazy.hs, dist/build/Text/Regex/Posix/ByteString/Lazy.o )
+[6 of 6] Compiling Text.Regex.Posix ( Text/Regex/Posix.hs, dist/build/Text/Regex/Posix.o )
+
+Text/Regex/Posix.hs:72:13: warning: [-Wdeprecations]
+    In the use of ‘versionTags’ (imported from Data.Version):
+    Deprecated: "See GHC ticket #2496"
+Installing library in
+/home/travis/.cabal/store/ghc-8.0.1/regex-posix-0.95.2-6e336a17f4f6bd62d04875c735c3280c0144d2ec693ca2c4985717f10e96a506/lib
+Creating package registration file:
+/home/travis/build/ezyang/cabal/dist-newstyle/tmp/package-registration-13691330691125898167

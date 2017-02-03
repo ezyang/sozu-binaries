@@ -1,0 +1,9 @@
+Configuring base16-bytestring-0.1.1.6...
+Building base16-bytestring-0.1.1.6...
+Preprocessing library base16-bytestring-0.1.1.6...
+[1 of 2] Compiling Data.ByteString.Base16 ( Data/ByteString/Base16.hs, dist/build/Data/ByteString/Base16.o )
+[2 of 2] Compiling Data.ByteString.Base16.Lazy ( Data/ByteString/Base16/Lazy.hs, dist/build/Data/ByteString/Base16/Lazy.o )
+Installing library in
+/home/travis/.cabal/store/ghc-8.0.1/base16-bytestring-0.1.1.6-0581831a546a646b48234a68b8790e46994d900c7181e701e1025906be34b946/lib
+Creating package registration file:
+/home/travis/build/ezyang/cabal/dist-newstyle/tmp/package-registration-7198853861649760492

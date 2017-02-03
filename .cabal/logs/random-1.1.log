@@ -1,0 +1,12 @@
+Configuring random-1.1...
+Building random-1.1...
+Preprocessing library random-1.1...
+[1 of 1] Compiling System.Random    ( System/Random.hs, dist/build/System/Random.o )
+
+System/Random.hs:43:1: warning: [-Wtabs]
+    Tab character found here, and in 74 further locations.
+    Please use spaces instead.
+Installing library in
+/home/travis/.cabal/store/ghc-8.0.1/random-1.1-4ab55ba0162167058f44706d8cc4912c4165112ce0faed51f61a93a84050ea13/lib
+Creating package registration file:
+/home/travis/build/ezyang/cabal/dist-newstyle/tmp/package-registration-14505736221037127828

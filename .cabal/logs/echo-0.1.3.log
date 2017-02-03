@@ -1,0 +1,9 @@
+Configuring echo-0.1.3...
+Building echo-0.1.3...
+Preprocessing library echo-0.1.3...
+[1 of 2] Compiling System.IO.Echo.Internal ( src/System/IO/Echo/Internal.hs, dist/build/System/IO/Echo/Internal.o )
+[2 of 2] Compiling System.IO.Echo   ( src/System/IO/Echo.hs, dist/build/System/IO/Echo.o )
+Installing library in
+/home/travis/.cabal/store/ghc-8.0.1/echo-0.1.3-502e12da2f81193136ef6c5e257a735818cb985d43e7115cc577a1843267207f/lib
+Creating package registration file:
+/home/travis/build/ezyang/cabal/dist-newstyle/tmp/package-registration-3040891721303455736

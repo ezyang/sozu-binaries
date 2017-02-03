@@ -1,0 +1,48 @@
+Configuring optparse-applicative-0.12.1.0...
+Building optparse-applicative-0.12.1.0...
+Preprocessing library optparse-applicative-0.12.1.0...
+[ 1 of 15] Compiling Options.Applicative.Help.Pretty ( Options/Applicative/Help/Pretty.hs, dist/build/Options/Applicative/Help/Pretty.o )
+[ 2 of 15] Compiling Options.Applicative.Help.Chunk ( Options/Applicative/Help/Chunk.hs, dist/build/Options/Applicative/Help/Chunk.o )
+
+Options/Applicative/Help/Chunk.hs:21:1: warning: [-Wunused-imports]
+    The import of ‘Data.Monoid’ is redundant
+      except perhaps to import instances from ‘Data.Monoid’
+    To import instances alone, use: import Data.Monoid()
+[ 3 of 15] Compiling Options.Applicative.Help.Types ( Options/Applicative/Help/Types.hs, dist/build/Options/Applicative/Help/Types.o )
+
+Options/Applicative/Help/Types.hs:6:1: warning: [-Wunused-imports]
+    The import of ‘Data.Monoid’ is redundant
+      except perhaps to import instances from ‘Data.Monoid’
+    To import instances alone, use: import Data.Monoid()
+[ 4 of 15] Compiling Options.Applicative.Types ( Options/Applicative/Types.hs, dist/build/Options/Applicative/Types.o )
+[ 5 of 15] Compiling Options.Applicative.Internal ( Options/Applicative/Internal.hs, dist/build/Options/Applicative/Internal.o )
+[ 6 of 15] Compiling Options.Applicative.Builder.Completer ( Options/Applicative/Builder/Completer.hs, dist/build/Options/Applicative/Builder/Completer.o )
+[ 7 of 15] Compiling Options.Applicative.Common ( Options/Applicative/Common.hs, dist/build/Options/Applicative/Common.o )
+[ 8 of 15] Compiling Options.Applicative.Builder.Internal ( Options/Applicative/Builder/Internal.hs, dist/build/Options/Applicative/Builder/Internal.o )
+
+Options/Applicative/Builder/Internal.hs:68:3: warning: [-Wunused-top-binds]
+    Defined but not used: ‘hasValueDummy’
+
+Options/Applicative/Builder/Internal.hs:75:3: warning: [-Wunused-top-binds]
+    Defined but not used: ‘hasMetavarDummy’
+[ 9 of 15] Compiling Options.Applicative.Builder ( Options/Applicative/Builder.hs, dist/build/Options/Applicative/Builder.o )
+
+Options/Applicative/Builder.hs:144:1: warning: [-Wredundant-constraints]
+    • Redundant constraint: HasValue f
+    • In the type signature for:
+           value :: HasValue f => a -> Mod f a
+
+Options/Applicative/Builder.hs:176:1: warning: [-Wredundant-constraints]
+    • Redundant constraint: HasMetavar f
+    • In the type signature for:
+           metavar :: HasMetavar f => String -> Mod f a
+[10 of 15] Compiling Options.Applicative.BashCompletion ( Options/Applicative/BashCompletion.hs, dist/build/Options/Applicative/BashCompletion.o )
+[11 of 15] Compiling Options.Applicative.Help.Core ( Options/Applicative/Help/Core.hs, dist/build/Options/Applicative/Help/Core.o )
+[12 of 15] Compiling Options.Applicative.Help ( Options/Applicative/Help.hs, dist/build/Options/Applicative/Help.o )
+[13 of 15] Compiling Options.Applicative.Extra ( Options/Applicative/Extra.hs, dist/build/Options/Applicative/Extra.o )
+[14 of 15] Compiling Options.Applicative ( Options/Applicative.hs, dist/build/Options/Applicative.o )
+[15 of 15] Compiling Options.Applicative.Arrows ( Options/Applicative/Arrows.hs, dist/build/Options/Applicative/Arrows.o )
+Installing library in
+/home/travis/.cabal/store/ghc-8.0.1/optparse-applicative-0.12.1.0-7c435e464d9d7543f2a4920ca058bffb60e7720eee8ac959c8bb199f2c8d5751/lib
+Creating package registration file:
+/home/travis/build/ezyang/cabal/dist-newstyle/tmp/package-registration-16425488991501252996

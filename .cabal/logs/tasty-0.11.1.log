@@ -1,0 +1,177 @@
+Configuring tasty-0.11.1...
+Building tasty-0.11.1...
+Preprocessing library tasty-0.11.1...
+
+Test/Tasty/Options.hs:3:14: warning:
+    -XOverlappingInstances is deprecated: instead use per-instance pragmas OVERLAPPING/OVERLAPPABLE/OVERLAPS
+[ 1 of 18] Compiling Test.Tasty.Parallel ( Test/Tasty/Parallel.hs, dist/build/Test/Tasty/Parallel.o )
+[ 2 of 18] Compiling Test.Tasty.Runners.Utils ( Test/Tasty/Runners/Utils.hs, dist/build/Test/Tasty/Runners/Utils.o )
+
+Test/Tasty/Runners/Utils.hs:6:1: warning: [-Wunused-imports]
+    The import of ‘Control.Applicative’ is redundant
+      except perhaps to import instances from ‘Control.Applicative’
+    To import instances alone, use: import Control.Applicative()
+[ 3 of 18] Compiling Test.Tasty.Runners.Reducers ( Test/Tasty/Runners/Reducers.hs, dist/build/Test/Tasty/Runners/Reducers.o )
+
+Test/Tasty/Runners/Reducers.hs:44:1: warning: [-Wunused-imports]
+    The import of ‘Data.Monoid’ is redundant
+      except perhaps to import instances from ‘Data.Monoid’
+    To import instances alone, use: import Data.Monoid()
+[ 4 of 18] Compiling Test.Tasty.Options ( Test/Tasty/Options.hs, dist/build/Test/Tasty/Options.o )
+
+Test/Tasty/Options.hs:29:1: warning: [-Wunused-imports]
+    The import of ‘Data.Proxy’ is redundant
+      except perhaps to import instances from ‘Data.Proxy’
+    To import instances alone, use: import Data.Proxy()
+
+Test/Tasty/Options.hs:31:1: warning: [-Wunused-imports]
+    The import of ‘Data.Foldable’ is redundant
+      except perhaps to import instances from ‘Data.Foldable’
+    To import instances alone, use: import Data.Foldable()
+[ 5 of 18] Compiling Test.Tasty.Patterns ( Test/Tasty/Patterns.hs, dist/build/Test/Tasty/Patterns.o )
+
+Test/Tasty/Patterns.hs:47:1: warning: [-Wunused-imports]
+    The import of ‘Data.Tagged’ is redundant
+      except perhaps to import instances from ‘Data.Tagged’
+    To import instances alone, use: import Data.Tagged()
+
+Test/Tasty/Patterns.hs:50:1: warning: [-Wunused-imports]
+    The import of ‘Data.Monoid’ is redundant
+      except perhaps to import instances from ‘Data.Monoid’
+    To import instances alone, use: import Data.Monoid()
+[ 6 of 18] Compiling Test.Tasty.Options.Core ( Test/Tasty/Options/Core.hs, dist/build/Test/Tasty/Options/Core.o )
+
+Test/Tasty/Options/Core.hs:14:1: warning: [-Wunused-imports]
+    The import of ‘Data.Proxy’ is redundant
+      except perhaps to import instances from ‘Data.Proxy’
+    To import instances alone, use: import Data.Proxy()
+
+Test/Tasty/Options/Core.hs:15:1: warning: [-Wunused-imports]
+    The import of ‘Data.Tagged’ is redundant
+      except perhaps to import instances from ‘Data.Tagged’
+    To import instances alone, use: import Data.Tagged()
+
+Test/Tasty/Options/Core.hs:17:1: warning: [-Wunused-imports]
+    The import of ‘Data.Monoid’ is redundant
+      except perhaps to import instances from ‘Data.Monoid’
+    To import instances alone, use: import Data.Monoid()
+[ 7 of 18] Compiling Test.Tasty.Core  ( Test/Tasty/Core.hs, dist/build/Test/Tasty/Core.o )
+
+Test/Tasty/Core.hs:10:1: warning: [-Wunused-imports]
+    The import of ‘Data.Foldable’ is redundant
+      except perhaps to import instances from ‘Data.Foldable’
+    To import instances alone, use: import Data.Foldable()
+
+Test/Tasty/Core.hs:11:1: warning: [-Wunused-imports]
+    The import of ‘Data.Monoid’ is redundant
+      except perhaps to import instances from ‘Data.Monoid’
+    To import instances alone, use: import Data.Monoid()
+[ 8 of 18] Compiling Test.Tasty.Providers ( Test/Tasty/Providers.hs, dist/build/Test/Tasty/Providers.o )
+[ 9 of 18] Compiling Test.Tasty.Run   ( Test/Tasty/Run.hs, dist/build/Test/Tasty/Run.o )
+
+Test/Tasty/Run.hs:21:1: warning: [-Wunused-imports]
+    The import of ‘Control.Applicative’ is redundant
+      except perhaps to import instances from ‘Control.Applicative’
+    To import instances alone, use: import Control.Applicative()
+
+Test/Tasty/Run.hs:306:25: warning: [-Wdeprecations]
+    In the use of ‘timeSpecAsNanoSecs’ (imported from System.Clock):
+    Deprecated: "Use toNanoSecs instead! Replaced timeSpecAsNanoSecs with the same signature TimeSpec -> Integer"
+
+Test/Tasty/Run.hs:307:17: warning: [-Wtype-defaults]
+    • Defaulting the following constraints to type ‘Integer’
+        (Integral b0)
+          arising from a use of ‘^’ at Test/Tasty/Run.hs:307:17-20
+        (Num b0) arising from the literal ‘9’ at Test/Tasty/Run.hs:307:20
+    • In the second argument of ‘(/)’, namely ‘10 ^ 9’
+      In the second argument of ‘($)’, namely ‘ns / 10 ^ 9’
+      In a stmt of a 'do' block: return $ ns / 10 ^ 9
+[10 of 18] Compiling Test.Tasty.Ingredients ( Test/Tasty/Ingredients.hs, dist/build/Test/Tasty/Ingredients.o )
+[11 of 18] Compiling Test.Tasty.Ingredients.IncludingOptions ( Test/Tasty/Ingredients/IncludingOptions.hs, dist/build/Test/Tasty/Ingredients/IncludingOptions.o )
+[12 of 18] Compiling Test.Tasty.Ingredients.ConsoleReporter ( Test/Tasty/Ingredients/ConsoleReporter.hs, dist/build/Test/Tasty/Ingredients/ConsoleReporter.o )
+
+Test/Tasty/Ingredients/ConsoleReporter.hs:15:1: warning: [-Wunused-imports]
+    The import of ‘Control.Applicative’ is redundant
+      except perhaps to import instances from ‘Control.Applicative’
+    To import instances alone, use: import Control.Applicative()
+
+Test/Tasty/Ingredients/ConsoleReporter.hs:28:1: warning: [-Wunused-imports]
+    The import of ‘Data.Tagged’ is redundant
+      except perhaps to import instances from ‘Data.Tagged’
+    To import instances alone, use: import Data.Tagged()
+
+Test/Tasty/Ingredients/ConsoleReporter.hs:64:5: warning: [-Wredundant-constraints]
+    • Redundant constraint: IsTest t
+    • In the type signature for:
+           runSingleTest :: (IsTest t, ?colors::Bool) =>
+                            OptionSet -> TestName -> t -> Ap (Reader Level) TestOutput
+      In the expression:
+        let
+          !alignment = computeAlignment opts tree
+          runSingleTest ::
+            (IsTest t, ?colors :: Bool) =>
+            OptionSet -> TestName -> t -> Ap (Reader Level) TestOutput
+          runSingleTest _opts name _test = Ap $ do { ... }
+          ....
+        in
+          flip runReader 0
+          $ getApp
+            $ foldTestTree
+                (trivialFold {foldSingle = runSingleTest, foldGroup = runGroup})
+                opts
+                tree
+      In an equation for ‘produceOutput’:
+          produceOutput opts tree
+            = let
+                !alignment = computeAlignment opts tree
+                runSingleTest ::
+                  (IsTest t, ?colors :: Bool) =>
+                  OptionSet -> TestName -> t -> Ap (Reader Level) TestOutput
+                ....
+              in
+                flip runReader 0
+                $ getApp
+                  $ foldTestTree
+                      (trivialFold {foldSingle = runSingleTest, foldGroup = runGroup})
+                      opts
+                      tree
+[13 of 18] Compiling Test.Tasty.Ingredients.ListTests ( Test/Tasty/Ingredients/ListTests.hs, dist/build/Test/Tasty/Ingredients/ListTests.o )
+
+Test/Tasty/Ingredients/ListTests.hs:10:1: warning: [-Wunused-imports]
+    The import of ‘Data.Proxy’ is redundant
+      except perhaps to import instances from ‘Data.Proxy’
+    To import instances alone, use: import Data.Proxy()
+
+Test/Tasty/Ingredients/ListTests.hs:11:1: warning: [-Wunused-imports]
+    The import of ‘Data.Monoid’ is redundant
+      except perhaps to import instances from ‘Data.Monoid’
+    To import instances alone, use: import Data.Monoid()
+[14 of 18] Compiling Test.Tasty.Ingredients.Basic ( Test/Tasty/Ingredients/Basic.hs, dist/build/Test/Tasty/Ingredients/Basic.o )
+[15 of 18] Compiling Test.Tasty.Options.Env ( Test/Tasty/Options/Env.hs, dist/build/Test/Tasty/Options/Env.o )
+
+Test/Tasty/Options/Env.hs:11:1: warning: [-Wunused-imports]
+    The import of ‘Data.Foldable’ is redundant
+      except perhaps to import instances from ‘Data.Foldable’
+    To import instances alone, use: import Data.Foldable()
+
+Test/Tasty/Options/Env.hs:17:1: warning: [-Wunused-imports]
+    The import of ‘Control.Applicative’ is redundant
+      except perhaps to import instances from ‘Control.Applicative’
+    To import instances alone, use: import Control.Applicative()
+[16 of 18] Compiling Test.Tasty.CmdLine ( Test/Tasty/CmdLine.hs, dist/build/Test/Tasty/CmdLine.o )
+
+Test/Tasty/CmdLine.hs:11:1: warning: [-Wunused-imports]
+    The import of ‘Data.Monoid’ is redundant
+      except perhaps to import instances from ‘Data.Monoid’
+    To import instances alone, use: import Data.Monoid()
+
+Test/Tasty/CmdLine.hs:13:1: warning: [-Wunused-imports]
+    The import of ‘Data.Foldable’ is redundant
+      except perhaps to import instances from ‘Data.Foldable’
+    To import instances alone, use: import Data.Foldable()
+[17 of 18] Compiling Test.Tasty.Runners ( Test/Tasty/Runners.hs, dist/build/Test/Tasty/Runners.o )
+[18 of 18] Compiling Test.Tasty       ( Test/Tasty.hs, dist/build/Test/Tasty.o )
+Installing library in
+/home/travis/.cabal/store/ghc-8.0.1/tasty-0.11.1-1fdc412937d5cb225f04331691b08c6292355962032d8273fd594f98041f5b64/lib
+Creating package registration file:
+/home/travis/build/ezyang/cabal/dist-newstyle/tmp/package-registration-18566691791057418418

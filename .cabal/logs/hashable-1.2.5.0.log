@@ -1,0 +1,16 @@
+Configuring hashable-1.2.5.0...
+Building hashable-1.2.5.0...
+Preprocessing library hashable-1.2.5.0...
+[1 of 4] Compiling Data.Hashable.Class ( Data/Hashable/Class.hs, dist/build/Data/Hashable/Class.o )
+
+Data/Hashable/Class.hs:594:28: warning: [-Wdeprecations]
+    In the use of ‘inlinePerformIO’
+    (imported from Data.ByteString.Internal):
+    Deprecated: "If you think you know what you are doing, use 'unsafePerformIO'. If you are sure you know what you are doing, use 'unsafeDupablePerformIO'. If you enjoy sharing an address space with a malevolent agent of chaos, try 'accursedUnutterablePerformIO'."
+[2 of 4] Compiling Data.Hashable.Generic ( Data/Hashable/Generic.hs, dist/build/Data/Hashable/Generic.o )
+[3 of 4] Compiling Data.Hashable.Lifted ( Data/Hashable/Lifted.hs, dist/build/Data/Hashable/Lifted.o )
+[4 of 4] Compiling Data.Hashable    ( Data/Hashable.hs, dist/build/Data/Hashable.o )
+Installing library in
+/home/travis/.cabal/store/ghc-8.0.1/hashable-1.2.5.0-ac20901ea03390d9f93c5936f2a4875a9881aba5f50c41a7021bd79a50588229/lib
+Creating package registration file:
+/home/travis/build/ezyang/cabal/dist-newstyle/tmp/package-registration-278722862233665123

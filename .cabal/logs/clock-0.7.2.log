@@ -1,0 +1,10 @@
+Configuring clock-0.7.2...
+Building clock-0.7.2...
+Preprocessing library clock-0.7.2...
+Clock.hsc:44:0: warning: "hsc_alignment" redefined [enabled by default]
+/opt/ghc/8.0.1/lib/ghc-8.0.1/template-hsc.h:88:0: note: this is the location of the previous definition
+[1 of 1] Compiling System.Clock     ( dist/build/System/Clock.hs, dist/build/System/Clock.o )
+Installing library in
+/home/travis/.cabal/store/ghc-8.0.1/clock-0.7.2-f7bbbe23389d0d21e0674117ade8b1ebfca0e0c3219d350650a9dfb98261cd3d/lib
+Creating package registration file:
+/home/travis/build/ezyang/cabal/dist-newstyle/tmp/package-registration-6013856441172755590

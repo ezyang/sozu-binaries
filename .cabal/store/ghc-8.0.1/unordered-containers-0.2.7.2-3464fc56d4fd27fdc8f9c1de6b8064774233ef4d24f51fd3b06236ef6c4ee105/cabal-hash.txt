@@ -1,0 +1,9 @@
+pkgid: unordered-containers-0.2.7.2
+src: 7f5c4344fcab01f6046378c64522f0dfd69e417f6c1a8858a24bdabaadb3e56e
+deps: base-4.9.0.0, deepseq-1.4.2.0, hashable-1.2.5.0-ac20901ea03390d9f93c5936f2a4875a9881aba5f50c41a7021bd79a50588229
+compilerid: ghc-8.0.1
+platform: x86_64-linux
+flags: -debug
+shared-lib: True
+stripped-exe: False
+debug-info: 0

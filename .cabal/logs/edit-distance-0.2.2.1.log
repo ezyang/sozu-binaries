@@ -1,0 +1,19 @@
+Configuring edit-distance-0.2.2.1...
+Building edit-distance-0.2.2.1...
+Preprocessing library edit-distance-0.2.2.1...
+[1 of 7] Compiling Text.EditDistance.ArrayUtilities ( Text/EditDistance/ArrayUtilities.hs, dist/build/Text/EditDistance/ArrayUtilities.o )
+[2 of 7] Compiling Text.EditDistance.MonadUtilities ( Text/EditDistance/MonadUtilities.hs, dist/build/Text/EditDistance/MonadUtilities.o )
+[3 of 7] Compiling Text.EditDistance.Bits ( Text/EditDistance/Bits.hs, dist/build/Text/EditDistance/Bits.o )
+
+Text/EditDistance/Bits.hs:238:1: warning: [-Wredundant-constraints]
+    • Redundant constraint: Num bv
+    • In the type signature for:
+           sizedComplement :: (Num bv, Bits bv) => bv -> bv -> bv
+[4 of 7] Compiling Text.EditDistance.EditCosts ( Text/EditDistance/EditCosts.hs, dist/build/Text/EditDistance/EditCosts.o )
+[5 of 7] Compiling Text.EditDistance.SquareSTUArray ( Text/EditDistance/SquareSTUArray.hs, dist/build/Text/EditDistance/SquareSTUArray.o )
+[6 of 7] Compiling Text.EditDistance.STUArray ( Text/EditDistance/STUArray.hs, dist/build/Text/EditDistance/STUArray.o )
+[7 of 7] Compiling Text.EditDistance ( Text/EditDistance.hs, dist/build/Text/EditDistance.o )
+Installing library in
+/home/travis/.cabal/store/ghc-8.0.1/edit-distance-0.2.2.1-9ae0787491215c17ff548b07789b5b33ba05d9e54dec5340fcc137c401de4c46/lib
+Creating package registration file:
+/home/travis/build/ezyang/cabal/dist-newstyle/tmp/package-registration-278722862233665123

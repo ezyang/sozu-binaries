@@ -1,0 +1,15 @@
+Configuring regex-base-0.93.2...
+Building regex-base-0.93.2...
+Preprocessing library regex-base-0.93.2...
+[1 of 4] Compiling Text.Regex.Base.RegexLike ( Text/Regex/Base/RegexLike.hs, dist/build/Text/Regex/Base/RegexLike.o )
+[2 of 4] Compiling Text.Regex.Base.Context ( Text/Regex/Base/Context.hs, dist/build/Text/Regex/Base/Context.o )
+[3 of 4] Compiling Text.Regex.Base  ( Text/Regex/Base.hs, dist/build/Text/Regex/Base.o )
+
+Text/Regex/Base.hs:55:13: warning: [-Wdeprecations]
+    In the use of ‘versionTags’ (imported from Data.Version):
+    Deprecated: "See GHC ticket #2496"
+[4 of 4] Compiling Text.Regex.Base.Impl ( Text/Regex/Base/Impl.hs, dist/build/Text/Regex/Base/Impl.o )
+Installing library in
+/home/travis/.cabal/store/ghc-8.0.1/regex-base-0.93.2-086f5e7b0a9233b0dd2657d7a0c1ac3947d9d7612f814c01569a3cee58741ff9/lib
+Creating package registration file:
+/home/travis/build/ezyang/cabal/dist-newstyle/tmp/package-registration-1143408282188213258

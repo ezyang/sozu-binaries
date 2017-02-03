@@ -1,0 +1,10 @@
+Configuring uuid-types-1.0.3...
+Building uuid-types-1.0.3...
+Preprocessing library uuid-types-1.0.3...
+[1 of 3] Compiling Data.UUID.Types.Internal.Builder ( Data/UUID/Types/Internal/Builder.hs, dist/build/Data/UUID/Types/Internal/Builder.o )
+[2 of 3] Compiling Data.UUID.Types.Internal ( Data/UUID/Types/Internal.hs, dist/build/Data/UUID/Types/Internal.o )
+[3 of 3] Compiling Data.UUID.Types  ( Data/UUID/Types.hs, dist/build/Data/UUID/Types.o )
+Installing library in
+/home/travis/.cabal/store/ghc-8.0.1/uuid-types-1.0.3-e7ace4416838a364e57c604315ea57ddfb18d206e96e3c3d1c90cdcdb6628572/lib
+Creating package registration file:
+/home/travis/build/ezyang/cabal/dist-newstyle/tmp/package-registration-1129566413184803526

@@ -1,0 +1,18 @@
+Configuring tar-0.5.0.3...
+Building tar-0.5.0.3...
+Preprocessing library tar-0.5.0.3...
+[ 1 of 11] Compiling Codec.Archive.Tar.Index.IntTrie ( Codec/Archive/Tar/Index/IntTrie.hs, dist/build/Codec/Archive/Tar/Index/IntTrie.o )
+[ 2 of 11] Compiling Codec.Archive.Tar.Index.StringTable ( Codec/Archive/Tar/Index/StringTable.hs, dist/build/Codec/Archive/Tar/Index/StringTable.o )
+[ 3 of 11] Compiling Codec.Archive.Tar.Types ( Codec/Archive/Tar/Types.hs, dist/build/Codec/Archive/Tar/Types.o )
+[ 4 of 11] Compiling Codec.Archive.Tar.Read ( Codec/Archive/Tar/Read.hs, dist/build/Codec/Archive/Tar/Read.o )
+[ 5 of 11] Compiling Codec.Archive.Tar.Write ( Codec/Archive/Tar/Write.hs, dist/build/Codec/Archive/Tar/Write.o )
+[ 6 of 11] Compiling Codec.Archive.Tar.Pack ( Codec/Archive/Tar/Pack.hs, dist/build/Codec/Archive/Tar/Pack.o )
+[ 7 of 11] Compiling Codec.Archive.Tar.Index ( Codec/Archive/Tar/Index.hs, dist/build/Codec/Archive/Tar/Index.o )
+[ 8 of 11] Compiling Codec.Archive.Tar.Check ( Codec/Archive/Tar/Check.hs, dist/build/Codec/Archive/Tar/Check.o )
+[ 9 of 11] Compiling Codec.Archive.Tar.Unpack ( Codec/Archive/Tar/Unpack.hs, dist/build/Codec/Archive/Tar/Unpack.o )
+[10 of 11] Compiling Codec.Archive.Tar.Entry ( Codec/Archive/Tar/Entry.hs, dist/build/Codec/Archive/Tar/Entry.o )
+[11 of 11] Compiling Codec.Archive.Tar ( Codec/Archive/Tar.hs, dist/build/Codec/Archive/Tar.o )
+Installing library in
+/home/travis/.cabal/store/ghc-8.0.1/tar-0.5.0.3-609708250c1d771e963ccea504af4b236cb03e725c27b273c1a82ce9a4566602/lib
+Creating package registration file:
+/home/travis/build/ezyang/cabal/dist-newstyle/tmp/package-registration-8890233111494613810
