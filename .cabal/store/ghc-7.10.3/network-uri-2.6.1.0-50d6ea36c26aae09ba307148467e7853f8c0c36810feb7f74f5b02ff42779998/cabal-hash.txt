@@ -1,0 +1,8 @@
+pkgid: network-uri-2.6.1.0
+src: 423e0a2351236f3fcfd24e39cdbc38050ec2910f82245e69ca72a661f7fc47f0
+deps: base-4.8.2.0-cc43d8e06aa74e9c4c0132becc49ee25, deepseq-1.4.1.1-8eec8f9bea2efc2500f63544ec6ca569, parsec-3.1.11-038b1e5b2391aeedd7c3967a573f177741cd9c6a1a0fe4bdf5f2a81b90da26d2
+compilerid: ghc-7.10.3
+platform: x86_64-osx
+shared-lib: True
+stripped-exe: False
+debug-info: 0

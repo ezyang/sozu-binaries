@@ -1,0 +1,9 @@
+pkgid: ansi-terminal-0.6.2.3
+src: 4dc02cb53e9ca7c8800bbdfc0337b961e5a945382cd09a6a40c6170126e0ee42
+deps: base-4.8.2.0-cc43d8e06aa74e9c4c0132becc49ee25, unix-2.7.1.0-3d39e78228b30316716e447e1283b3f0
+compilerid: ghc-7.10.3
+platform: x86_64-osx
+flags: -example
+shared-lib: True
+stripped-exe: False
+debug-info: 0

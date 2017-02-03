@@ -1,0 +1,43 @@
+packages: Cabal/ cabal-testsuite/ cabal-install/
+optional-packages: hackage-repo-tool-*/
+remote-repo-cache: /Users/travis/.cabal/packages
+logs-dir: /Users/travis/.cabal/logs
+world-file: /Users/travis/.cabal/world
+allow-newer: hackage-repo-tool:Cabal, hackage-repo-tool:time
+verbose: 1
+constraints: unix >=2.7.1.0
+solver: choose
+build-summary: /Users/travis/.cabal/logs/build.log
+doc-index-file: $datadir/doc/$arch-$os-$compiler/index.html
+max-backjumps: 2000
+reorder-goals: False
+strong-flags: False
+remote-build-reporting: anonymous
+report-planning-failure: False
+one-shot: False
+jobs: 1
+offline: False
+extra-prog-path: /Users/travis/.cabal/bin
+compiler: ghc
+compiler: ghc
+documentation: False
+haddock-keep-temp-files: False
+haddock-hoogle: False
+haddock-html: False
+haddock-executables: False
+haddock-tests: False
+haddock-benchmarks: False
+haddock-internal: False
+haddock-hyperlink-source: False
+
+package Cabal
+  ghc-options: -fno-ignore-asserts -Werror -fno-warn-orphans
+
+package cabal-install
+  ghc-options: -fno-ignore-asserts -Werror
+
+package cabal-testsuite
+  ghc-options: -fno-ignore-asserts
+
+repository hackage.haskell.org
+  url: http://hackage.haskell.org/

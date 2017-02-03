@@ -1,0 +1,8 @@
+pkgid: mtl-2.2.1
+src: cae59d79f3a16f8e9f3c9adc1010c7c6cdddc73e8a97ff4305f6439d855c8dc5
+deps: base-4.8.2.0-cc43d8e06aa74e9c4c0132becc49ee25, transformers-0.4.2.0-81450cd8f86b36eaa8fa0cbaf6efc3a3
+compilerid: ghc-7.10.3
+platform: x86_64-osx
+shared-lib: True
+stripped-exe: False
+debug-info: 0
