@@ -1,0 +1,8 @@
+pkgid: parsec-3.1.11
+src: 6f87251cb1d11505e621274dec15972de924a9074f07f7430a18892064c2676e
+deps: base-4.8.2.0-0d6d1084fbc041e1cded9228e80e264d, bytestring-0.10.6.0-c60f4c543b22c7f7293a06ae48820437, mtl-2.2.1-f378f2a0ff7196460556a0a542c92f4d46d78c1d8f51464b2a486434aadaf693, text-1.2.2.1-78576e9b1e5bd3089726a9044c764b870dda7b4864f6ab653a7e549915e3c95f
+compilerid: ghc-7.10.3
+platform: x86_64-linux
+shared-lib: True
+stripped-exe: False
+debug-info: 0

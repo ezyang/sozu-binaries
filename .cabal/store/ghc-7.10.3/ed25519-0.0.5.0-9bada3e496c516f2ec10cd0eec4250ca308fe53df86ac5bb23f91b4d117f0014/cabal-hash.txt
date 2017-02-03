@@ -1,0 +1,9 @@
+pkgid: ed25519-0.0.5.0
+src: d8a5958ebfa9309790efade64275dc5c441b568645c45ceed1b0c6ff36d6156d
+deps: base-4.8.2.0-0d6d1084fbc041e1cded9228e80e264d, bytestring-0.10.6.0-c60f4c543b22c7f7293a06ae48820437, ghc-prim-0.4.0.0-6cdc86811872333585fa98756aa7c51e
+compilerid: ghc-7.10.3
+platform: x86_64-linux
+flags: +no-donna +test-doctests +test-hlint +test-properties
+shared-lib: True
+stripped-exe: False
+debug-info: 0
