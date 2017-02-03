@@ -1,3 +1,4 @@
+language: c
 git:
     # https://github.com/travis-ci/travis-ci/issues/4575
     depth: 1
@@ -15,6 +16,8 @@ before_install:
  - export PATH=/opt/alex/3.1.7/bin:$PATH
  - ./travis-install.sh
  - mv .cabal $HOME
+   # HACK FIX ME
+ - ln -s /home/travis/build/ezyang/sozu-binaries /home/travis/build/ezyang/cabal
 script:
     - ./travis-test.sh
 notifications:
