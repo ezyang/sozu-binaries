@@ -1,0 +1,8 @@
+pkgid: old-time-1.1.0.3
+src: 1ccb158b0f7851715d36b757c523b026ca1541e2030d02239802ba39b4112bc1
+deps: base-4.9.0.0, old-locale-1.0.0.7-5e2485fa42ff6b4027d8fa4e353ff07d1454a6dd2211aeb347a25f0cd3818469
+compilerid: ghc-8.0.1
+platform: x86_64-linux
+shared-lib: True
+stripped-exe: False
+debug-info: 0
