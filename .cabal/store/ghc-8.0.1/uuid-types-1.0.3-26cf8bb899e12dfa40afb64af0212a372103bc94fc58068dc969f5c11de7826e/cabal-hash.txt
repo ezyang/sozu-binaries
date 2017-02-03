@@ -1,0 +1,8 @@
+pkgid: uuid-types-1.0.3
+src: 9276517ab24a9b06f39d6e3c33c6c2b4ace1fc2126dbc1cd9806866a6551b3fd
+deps: base-4.9.0.0, binary-0.8.3.0, bytestring-0.10.8.1, deepseq-1.4.2.0, hashable-1.2.5.0-5de5af90c51935beb066357bc7eb61b3c49d4df451b89b84649488344792a909, random-1.1-fe6ccf72ebd63a2d68570bb45b42bd08df5570c6151cb9af54907d40ef9af454, text-1.2.2.1-d0acaa92e9fb85d7444f53f19f3d973bd65daf6a34bc69c51e7b753193495eb4
+compilerid: ghc-8.0.1
+platform: x86_64-osx
+shared-lib: True
+stripped-exe: False
+debug-info: 0

@@ -1,0 +1,8 @@
+pkgid: parsec-3.1.11
+src: 6f87251cb1d11505e621274dec15972de924a9074f07f7430a18892064c2676e
+deps: base-4.9.0.0, bytestring-0.10.8.1, mtl-2.2.1-479fbaff250c9c4f9bb9e16417766e9d8363ff778551e6afdece526fcaec8c9b, text-1.2.2.1-d0acaa92e9fb85d7444f53f19f3d973bd65daf6a34bc69c51e7b753193495eb4
+compilerid: ghc-8.0.1
+platform: x86_64-osx
+shared-lib: True
+stripped-exe: False
+debug-info: 0

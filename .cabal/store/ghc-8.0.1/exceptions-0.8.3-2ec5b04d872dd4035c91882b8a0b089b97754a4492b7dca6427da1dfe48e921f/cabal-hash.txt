@@ -1,0 +1,8 @@
+pkgid: exceptions-0.8.3
+src: 4d6ad97e8e3d5dc6ce9ae68a469dc2fd3f66e9d312bc6faa7ab162eddcef87be
+deps: base-4.9.0.0, mtl-2.2.1-479fbaff250c9c4f9bb9e16417766e9d8363ff778551e6afdece526fcaec8c9b, stm-2.4.4.1-421e188ece864947a47e77ff8b9cd756751ad0f1d0e82ccfa3c3b3167a50304c, template-haskell-2.11.0.0, transformers-0.5.2.0, transformers-compat-0.5.1.4-488c6b2152c8596287a6bf960ac22c546ed14a725964bbbaecb2aa9ec79d8536
+compilerid: ghc-8.0.1
+platform: x86_64-osx
+shared-lib: True
+stripped-exe: False
+debug-info: 0
