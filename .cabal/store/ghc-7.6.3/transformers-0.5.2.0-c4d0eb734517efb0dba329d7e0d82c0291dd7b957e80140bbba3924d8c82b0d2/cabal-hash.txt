@@ -1,0 +1,7 @@
+pkgid: transformers-0.5.2.0
+src: 6c408713a8ba7dd7a6573a4644e0c17fe11747f5bf259eab958421a7358a70e2
+deps: base-4.6.0.1-8aa5d403c45ea59dcd2c39f123e27d57
+compilerid: ghc-7.6.3
+platform: x86_64-linux
+stripped-exe: False
+debug-info: 0

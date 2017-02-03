@@ -1,0 +1,7 @@
+pkgid: process-1.4.3.0
+src: 5473f4d20a19c3ba448ace7d4d01ec821ad531574c23934fd3c55627f5a7f0eb
+deps: base-4.6.0.1-8aa5d403c45ea59dcd2c39f123e27d57, deepseq-1.3.0.1-5cc4cd89bdc2e8f6db1833d95ec36926, directory-1.2.7.1-9110ab615b07f324eb0b35eea4cf0b4ddd7f669f059d6ef46675f6188faefc1e, filepath-1.3.0.1-b12cbe18566fe1532a1fda4c85e31cbe, unix-2.7.2.1-b5f47dcc6404464c78bb9ac87f5630742c51825c5e25f0da580b23c6d6aec4a8
+compilerid: ghc-7.6.3
+platform: x86_64-linux
+stripped-exe: False
+debug-info: 0

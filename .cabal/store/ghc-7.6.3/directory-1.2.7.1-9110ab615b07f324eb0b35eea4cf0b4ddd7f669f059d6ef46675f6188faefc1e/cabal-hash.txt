@@ -1,0 +1,7 @@
+pkgid: directory-1.2.7.1
+src: cf3c0984238ac5bb67706b03f86f823feb50d46092ed6ec6e523b89a1d0836cf
+deps: base-4.6.0.1-8aa5d403c45ea59dcd2c39f123e27d57, filepath-1.3.0.1-b12cbe18566fe1532a1fda4c85e31cbe, time-1.4.0.1-10dc4804a19dc0000fab79908f1a9f50, unix-2.7.2.1-b5f47dcc6404464c78bb9ac87f5630742c51825c5e25f0da580b23c6d6aec4a8
+compilerid: ghc-7.6.3
+platform: x86_64-linux
+stripped-exe: False
+debug-info: 0

@@ -1,0 +1,7 @@
+pkgid: base-compat-0.9.1
+src: 1033b48146b9ffcf4f7c75a321ea0b1525c1b662230f46c41957a1b501b6464a
+deps: base-4.6.0.1-8aa5d403c45ea59dcd2c39f123e27d57, unix-2.7.2.1-b5f47dcc6404464c78bb9ac87f5630742c51825c5e25f0da580b23c6d6aec4a8
+compilerid: ghc-7.6.3
+platform: x86_64-linux
+stripped-exe: False
+debug-info: 0
