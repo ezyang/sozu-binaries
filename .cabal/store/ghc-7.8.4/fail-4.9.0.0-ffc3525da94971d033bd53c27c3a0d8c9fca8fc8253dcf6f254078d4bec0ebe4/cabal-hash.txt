@@ -1,0 +1,8 @@
+pkgid: fail-4.9.0.0
+src: 6d5cdb1a5c539425a9665f740e364722e1d9d6ae37fbc55f30fe3dbbbb91d4a2
+deps: base-4.7.0.2-918c7ac27f65a87103264a9f51652d63
+compilerid: ghc-7.8.4
+platform: x86_64-osx
+shared-lib: True
+stripped-exe: False
+debug-info: 0

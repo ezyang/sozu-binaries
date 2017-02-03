@@ -1,0 +1,8 @@
+pkgid: directory-1.2.7.1
+src: cf3c0984238ac5bb67706b03f86f823feb50d46092ed6ec6e523b89a1d0836cf
+deps: base-4.7.0.2-918c7ac27f65a87103264a9f51652d63, filepath-1.3.0.2-25a474a9272ae6260626ce0d70ad1cab, time-1.4.2-192d26f44a2c945780bbb921626c3399, unix-2.7.2.1-b4b90fac80077ea96020f1817db3f0824a3f2605bb95e9eb56e18e25e0b8a06d
+compilerid: ghc-7.8.4
+platform: x86_64-osx
+shared-lib: True
+stripped-exe: False
+debug-info: 0

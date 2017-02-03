@@ -1,0 +1,9 @@
+pkgid: regex-tdfa-1.2.2
+src: cb12d675be7b31ed8086d8d022023d03eb553e55dbee6e1b7a4154933d471d39
+deps: array-0.5.0.0-470385a50d2b78598af85cfe9d988e1b, base-4.7.0.2-918c7ac27f65a87103264a9f51652d63, bytestring-0.10.4.0-78bc8f2c724c765c78c004a84acf6cc3, containers-0.5.5.1-d7910f1cd81272c1f31ca9f71d0f206e, ghc-prim-0.3.1.0-a24f9c14c632d75b683d0f93283aea37, mtl-2.2.1-4f14cc834ea7fd15bac8cf498b66529a8cef94f5999dfe5c7688a1e8fda14528, parsec-3.1.11-0b1e4a1c54079668c39e53771c7aedb3716f584926875b273bd23090a094da4d, regex-base-0.93.2-91456cfeb63f2580c48add049e36b76dd83b15d02e99c763de427e83240e190f
+compilerid: ghc-7.8.4
+platform: x86_64-osx
+flags: -devel
+shared-lib: True
+stripped-exe: False
+debug-info: 0
