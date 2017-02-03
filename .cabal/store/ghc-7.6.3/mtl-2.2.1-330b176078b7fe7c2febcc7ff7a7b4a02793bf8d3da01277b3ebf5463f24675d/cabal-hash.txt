@@ -1,0 +1,7 @@
+pkgid: mtl-2.2.1
+src: cae59d79f3a16f8e9f3c9adc1010c7c6cdddc73e8a97ff4305f6439d855c8dc5
+deps: base-4.6.0.1-8aa5d403c45ea59dcd2c39f123e27d57, transformers-0.5.2.0-c4d0eb734517efb0dba329d7e0d82c0291dd7b957e80140bbba3924d8c82b0d2
+compilerid: ghc-7.6.3
+platform: x86_64-linux
+stripped-exe: False
+debug-info: 0

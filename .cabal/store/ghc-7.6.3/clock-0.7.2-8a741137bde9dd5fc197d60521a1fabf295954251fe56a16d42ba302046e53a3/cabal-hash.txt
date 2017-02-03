@@ -1,0 +1,8 @@
+pkgid: clock-0.7.2
+src: 886601978898d3a91412fef895e864576a7125d661e1f8abc49a2a08840e691f
+deps: base-4.6.0.1-8aa5d403c45ea59dcd2c39f123e27d57
+compilerid: ghc-7.6.3
+platform: x86_64-linux
+flags: -llvm
+stripped-exe: False
+debug-info: 0
