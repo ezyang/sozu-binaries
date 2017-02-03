@@ -1,0 +1,7 @@
+pkgid: binary-0.8.2.1
+src: 2452e32eccfe74214f689805745a11de1018f22eb19682772df23cce8816b750
+deps: array-0.4.0.1-3b78425c10ff2dad7acf7e8c8ae014c3, base-4.6.0.1-8aa5d403c45ea59dcd2c39f123e27d57, bytestring-0.10.0.2-4f93248f75667c2c3321a7a6761b576f, containers-0.5.0.0-ab1dae9a94cd3cc84e7b2805636ebfa2
+compilerid: ghc-7.6.3
+platform: x86_64-linux
+stripped-exe: False
+debug-info: 0
