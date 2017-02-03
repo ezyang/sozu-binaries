@@ -1,0 +1,8 @@
+pkgid: integer-logarithms-1.0.1
+src: 0f453f8eb8b19122eac37d04ea95e9da5f9f07eb9ad750c174c3522e7d3a784c
+deps: array-0.4.0.0-0b6c5ca7e879a14d110ca4c001dd9297, base-4.5.1.0-6e4c9bdc36eeb9121f27ccbbcb62e3f3, ghc-prim-0.2.0.0-7d3c2c69a5e8257a04b2c679c40e2fa7, integer-gmp-0.4.0.0-af3a28fdc4138858e0c7c5ecc2a64f43, nats-1.1.1-88c38437fd9f807f500d30de7617bcfbf50bc3a5774c298e7946cc4f75b448d7
+compilerid: ghc-7.4.2
+platform: x86_64-linux
+flags: -check-bounds +integer-gmp
+stripped-exe: False
+debug-info: 0
