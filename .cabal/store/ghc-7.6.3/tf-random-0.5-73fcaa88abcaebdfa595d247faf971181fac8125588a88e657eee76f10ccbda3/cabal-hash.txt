@@ -1,0 +1,7 @@
+pkgid: tf-random-0.5
+src: 2e30cec027b313c9e1794d326635d8fc5f79b6bf6e7580ab4b00186dadc88510
+deps: base-4.6.0.1-8aa5d403c45ea59dcd2c39f123e27d57, primitive-0.6.2.0-078e9610c1704f843c027c283d5140e7777460f74f9a0af161541be9be411f2b, random-1.1-cf12dc18450b0b6def36b641e50b196404ce5e679e9486e4fcb4cecd87d22718, time-1.4.0.1-10dc4804a19dc0000fab79908f1a9f50
+compilerid: ghc-7.6.3
+platform: x86_64-linux
+stripped-exe: False
+debug-info: 0
