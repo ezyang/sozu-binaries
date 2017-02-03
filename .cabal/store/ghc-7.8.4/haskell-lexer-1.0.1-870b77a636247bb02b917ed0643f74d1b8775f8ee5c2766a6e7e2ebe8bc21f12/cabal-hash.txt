@@ -1,0 +1,8 @@
+pkgid: haskell-lexer-1.0.1
+src: d7d42ab3c4bc2f0232ede8b005fb9de57f862ee4c1c83aa61e1022346fc84366
+deps: base-4.7.0.2-bfd89587617e381ae01b8dd7b6c7f1c1
+compilerid: ghc-7.8.4
+platform: x86_64-linux
+shared-lib: True
+stripped-exe: False
+debug-info: 0

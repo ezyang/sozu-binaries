@@ -1,0 +1,8 @@
+pkgid: directory-1.2.7.1
+src: cf3c0984238ac5bb67706b03f86f823feb50d46092ed6ec6e523b89a1d0836cf
+deps: base-4.7.0.2-bfd89587617e381ae01b8dd7b6c7f1c1, filepath-1.3.0.2-25a474a9272ae6260626ce0d70ad1cab, time-1.4.2-9b3076800c33f8382c38628f35717951, unix-2.7.2.1-41e174b5c50713bac49519c24663b2e3745b67024c30f303326db13ab4adb9cd
+compilerid: ghc-7.8.4
+platform: x86_64-linux
+shared-lib: True
+stripped-exe: False
+debug-info: 0
