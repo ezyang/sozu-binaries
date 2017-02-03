@@ -1,0 +1,8 @@
+pkgid: uuid-types-1.0.3
+src: 9276517ab24a9b06f39d6e3c33c6c2b4ace1fc2126dbc1cd9806866a6551b3fd
+deps: base-4.8.2.0-0d6d1084fbc041e1cded9228e80e264d, binary-0.7.5.0-5784fd031a720c3b84e73006e444c7ca, bytestring-0.10.6.0-c60f4c543b22c7f7293a06ae48820437, deepseq-1.4.1.1-614b63b36dd6e29d2b35afff57c25311, hashable-1.2.5.0-2f6dfa13fbe9d31f7fe1012e0b4ffbb03ceb55e65a6513e29bf53e9a7479abee, random-1.1-804780afe2412bebe50bc6d5478d9aeb21cf20fb8c68ce28c7b19ff748ab5b7b, text-1.2.2.1-78576e9b1e5bd3089726a9044c764b870dda7b4864f6ab653a7e549915e3c95f
+compilerid: ghc-7.10.3
+platform: x86_64-linux
+shared-lib: True
+stripped-exe: False
+debug-info: 0

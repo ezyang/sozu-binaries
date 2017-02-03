@@ -1,0 +1,8 @@
+pkgid: base64-bytestring-1.0.0.1
+src: ab25abf4b00a2f52b270bc3ed43f1d59f16c8eec9d7dffb14df1e9265b233b50
+deps: base-4.8.2.0-0d6d1084fbc041e1cded9228e80e264d, bytestring-0.10.6.0-c60f4c543b22c7f7293a06ae48820437
+compilerid: ghc-7.10.3
+platform: x86_64-linux
+shared-lib: True
+stripped-exe: False
+debug-info: 0
