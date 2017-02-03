@@ -1,0 +1,8 @@
+pkgid: fail-4.9.0.0
+src: 6d5cdb1a5c539425a9665f740e364722e1d9d6ae37fbc55f30fe3dbbbb91d4a2
+deps: base-4.7.0.2-bfd89587617e381ae01b8dd7b6c7f1c1
+compilerid: ghc-7.8.4
+platform: x86_64-linux
+shared-lib: True
+stripped-exe: False
+debug-info: 0

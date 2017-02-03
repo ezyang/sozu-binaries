@@ -1,0 +1,8 @@
+pkgid: transformers-0.5.2.0
+src: 6c408713a8ba7dd7a6573a4644e0c17fe11747f5bf259eab958421a7358a70e2
+deps: base-4.7.0.2-bfd89587617e381ae01b8dd7b6c7f1c1
+compilerid: ghc-7.8.4
+platform: x86_64-linux
+shared-lib: True
+stripped-exe: False
+debug-info: 0

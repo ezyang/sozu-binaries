@@ -1,0 +1,9 @@
+pkgid: transformers-compat-0.5.1.4
+src: d881ef4ec164b631591b222efe7ff555af6d5397c9d86475b309ba9402a8ca9f
+deps: base-4.7.0.2-bfd89587617e381ae01b8dd7b6c7f1c1, ghc-prim-0.3.1.0-a24f9c14c632d75b683d0f93283aea37, transformers-0.5.2.0-bb451d0c158a1db39b01c2f1eeb3549846771f1b2ff37c560dbd7de606d0a13d
+compilerid: ghc-7.8.4
+platform: x86_64-linux
+flags: +mtl -three -two
+shared-lib: True
+stripped-exe: False
+debug-info: 0
