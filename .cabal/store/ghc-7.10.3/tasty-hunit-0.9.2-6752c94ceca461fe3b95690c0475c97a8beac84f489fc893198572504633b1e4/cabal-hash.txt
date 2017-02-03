@@ -1,0 +1,8 @@
+pkgid: tasty-hunit-0.9.2
+src: ae1efc2a750dfc09f9276d3a57e6a8f8b30f1a6932e81c53fcd67132b8ea1623
+deps: base-4.8.2.0-0d6d1084fbc041e1cded9228e80e264d, tasty-0.11.1-2f194cb09e8ad233e7bdd7774c0fbd07cea3a96bffa6147f260ffe776468261b
+compilerid: ghc-7.10.3
+platform: x86_64-linux
+shared-lib: True
+stripped-exe: False
+debug-info: 0

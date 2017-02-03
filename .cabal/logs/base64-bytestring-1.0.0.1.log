@@ -1,0 +1,12 @@
+Configuring base64-bytestring-1.0.0.1...
+Building base64-bytestring-1.0.0.1...
+Preprocessing library base64-bytestring-1.0.0.1...
+[1 of 5] Compiling Data.ByteString.Base64.Internal ( Data/ByteString/Base64/Internal.hs, dist/build/Data/ByteString/Base64/Internal.o )
+[2 of 5] Compiling Data.ByteString.Base64.URL ( Data/ByteString/Base64/URL.hs, dist/build/Data/ByteString/Base64/URL.o )
+[3 of 5] Compiling Data.ByteString.Base64.URL.Lazy ( Data/ByteString/Base64/URL/Lazy.hs, dist/build/Data/ByteString/Base64/URL/Lazy.o )
+[4 of 5] Compiling Data.ByteString.Base64 ( Data/ByteString/Base64.hs, dist/build/Data/ByteString/Base64.o )
+[5 of 5] Compiling Data.ByteString.Base64.Lazy ( Data/ByteString/Base64/Lazy.hs, dist/build/Data/ByteString/Base64/Lazy.o )
+Installing library in
+/home/travis/.cabal/store/ghc-7.10.3/base64-bytestring-1.0.0.1-55adde59fcdb1e8766cfd08a405439c30753437985ca36f8e31cc144e2a4ffa5/lib
+Creating package registration file:
+/home/travis/build/ezyang/cabal/dist-newstyle/tmp/package-registration-10252023621350490027

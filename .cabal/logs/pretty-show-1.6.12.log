@@ -1,0 +1,23 @@
+Configuring pretty-show-1.6.12...
+Building pretty-show-1.6.12...
+Preprocessing library pretty-show-1.6.12...
+[1 of 6] Compiling Paths_pretty_show ( dist/build/autogen/Paths_pretty_show.hs, dist/build/Paths_pretty_show.o )
+[2 of 6] Compiling Text.Show.Value  ( Text/Show/Value.hs, dist/build/Text/Show/Value.o )
+[3 of 6] Compiling Text.Show.PrettyVal ( Text/Show/PrettyVal.hs, dist/build/Text/Show/PrettyVal.o )
+[4 of 6] Compiling Text.Show.Html   ( Text/Show/Html.hs, dist/build/Text/Show/Html.o )
+
+Text/Show/Html.hs:106:1: Warning: Defined but not used: ‘tallTuple’
+[5 of 6] Compiling Text.Show.Parser ( dist/build/Text/Show/Parser.hs, dist/build/Text/Show/Parser.o )
+[6 of 6] Compiling Text.Show.Pretty ( Text/Show/Pretty.hs, dist/build/Text/Show/Pretty.o )
+Preprocessing executable 'ppsh' for pretty-show-1.6.12...
+[1 of 1] Compiling Main             ( bin/ppsh.hs, dist/build/ppsh/ppsh-tmp/Main.o )
+Linking dist/build/ppsh/ppsh ...
+Installing library in
+/home/travis/.cabal/store/ghc-7.10.3/pretty-show-1.6.12-498e2fd3eb23c8041ce549b2c24758fb658fd1c7399f7c5d24880904036270ba/lib
+Installing executable(s) in
+/home/travis/.cabal/store/ghc-7.10.3/pretty-show-1.6.12-498e2fd3eb23c8041ce549b2c24758fb658fd1c7399f7c5d24880904036270ba/bin
+Warning: The directory
+/home/travis/.cabal/store/ghc-7.10.3/pretty-show-1.6.12-498e2fd3eb23c8041ce549b2c24758fb658fd1c7399f7c5d24880904036270ba/bin
+is not in the system search path.
+Creating package registration file:
+/home/travis/build/ezyang/cabal/dist-newstyle/tmp/package-registration-1129566413184803526

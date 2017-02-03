@@ -1,0 +1,27 @@
+Configuring aeson-1.1.0.0...
+Building aeson-1.1.0.0...
+Preprocessing library aeson-1.1.0.0...
+[ 1 of 20] Compiling Data.Aeson.Types.Generic ( Data/Aeson/Types/Generic.hs, dist/build/Data/Aeson/Types/Generic.o )
+[ 2 of 20] Compiling Data.Aeson.Parser.Unescape ( Data/Aeson/Parser/Unescape.hs, dist/build/Data/Aeson/Parser/Unescape.o )
+[ 3 of 20] Compiling Data.Aeson.Internal.Functions ( Data/Aeson/Internal/Functions.hs, dist/build/Data/Aeson/Internal/Functions.o )
+[ 4 of 20] Compiling Data.Aeson.Internal.Time ( Data/Aeson/Internal/Time.hs, dist/build/Data/Aeson/Internal/Time.o )
+[ 5 of 20] Compiling Data.Aeson.Types.Internal ( Data/Aeson/Types/Internal.hs, dist/build/Data/Aeson/Types/Internal.o )
+[ 6 of 20] Compiling Data.Aeson.Encoding.Builder ( Data/Aeson/Encoding/Builder.hs, dist/build/Data/Aeson/Encoding/Builder.o )
+[ 7 of 20] Compiling Data.Aeson.Encoding.Internal ( Data/Aeson/Encoding/Internal.hs, dist/build/Data/Aeson/Encoding/Internal.o )
+[ 8 of 20] Compiling Data.Aeson.Parser.Time ( Data/Aeson/Parser/Time.hs, dist/build/Data/Aeson/Parser/Time.o )
+[ 9 of 20] Compiling Data.Aeson.Parser.Internal ( Data/Aeson/Parser/Internal.hs, dist/build/Data/Aeson/Parser/Internal.o )
+[10 of 20] Compiling Data.Aeson.Parser ( Data/Aeson/Parser.hs, dist/build/Data/Aeson/Parser.o )
+[11 of 20] Compiling Data.Aeson.Encoding ( Data/Aeson/Encoding.hs, dist/build/Data/Aeson/Encoding.o )
+[12 of 20] Compiling Data.Aeson.Types.ToJSON ( Data/Aeson/Types/ToJSON.hs, dist/build/Data/Aeson/Types/ToJSON.o )
+[13 of 20] Compiling Data.Aeson.Types.FromJSON ( Data/Aeson/Types/FromJSON.hs, dist/build/Data/Aeson/Types/FromJSON.o )
+[14 of 20] Compiling Data.Aeson.Types.Class ( Data/Aeson/Types/Class.hs, dist/build/Data/Aeson/Types/Class.o )
+[15 of 20] Compiling Data.Aeson.Internal ( Data/Aeson/Internal.hs, dist/build/Data/Aeson/Internal.o )
+[16 of 20] Compiling Data.Aeson.Types ( Data/Aeson/Types.hs, dist/build/Data/Aeson/Types.o )
+[17 of 20] Compiling Data.Aeson.Text  ( Data/Aeson/Text.hs, dist/build/Data/Aeson/Text.o )
+[18 of 20] Compiling Data.Aeson       ( Data/Aeson.hs, dist/build/Data/Aeson.o )
+[19 of 20] Compiling Data.Aeson.TH    ( Data/Aeson/TH.hs, dist/build/Data/Aeson/TH.o )
+[20 of 20] Compiling Data.Aeson.Encode ( Data/Aeson/Encode.hs, dist/build/Data/Aeson/Encode.o )
+Installing library in
+/home/travis/.cabal/store/ghc-7.10.3/aeson-1.1.0.0-03ba9e47e8624784837ed640a7b79f7a73ee23cf8c8e3b4ec57946760c1115ce/lib
+Creating package registration file:
+/home/travis/build/ezyang/cabal/dist-newstyle/tmp/package-registration-1911759956749241873

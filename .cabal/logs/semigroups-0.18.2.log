@@ -1,0 +1,10 @@
+Configuring semigroups-0.18.2...
+Building semigroups-0.18.2...
+Preprocessing library semigroups-0.18.2...
+[1 of 3] Compiling Data.List.NonEmpty ( src-ghc7/Data/List/NonEmpty.hs, dist/build/Data/List/NonEmpty.o )
+[2 of 3] Compiling Data.Semigroup   ( src-ghc7/Data/Semigroup.hs, dist/build/Data/Semigroup.o )
+[3 of 3] Compiling Data.Semigroup.Generic ( src/Data/Semigroup/Generic.hs, dist/build/Data/Semigroup/Generic.o )
+Installing library in
+/home/travis/.cabal/store/ghc-7.10.3/semigroups-0.18.2-f77d100f5732d0fbffa16ed7cfcc3d273c9c36aecd13f88415c3a9617e408c07/lib
+Creating package registration file:
+/home/travis/build/ezyang/cabal/dist-newstyle/tmp/package-registration-18566691791057418418

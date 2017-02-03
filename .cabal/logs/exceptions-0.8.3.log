@@ -1,0 +1,9 @@
+Configuring exceptions-0.8.3...
+Building exceptions-0.8.3...
+Preprocessing library exceptions-0.8.3...
+[1 of 2] Compiling Control.Monad.Catch ( src/Control/Monad/Catch.hs, dist/build/Control/Monad/Catch.o )
+[2 of 2] Compiling Control.Monad.Catch.Pure ( src/Control/Monad/Catch/Pure.hs, dist/build/Control/Monad/Catch/Pure.o )
+Installing library in
+/home/travis/.cabal/store/ghc-7.10.3/exceptions-0.8.3-8c8750067a0e7b9da3f1b1954278145c89205281331fd610d98fa76c49cad126/lib
+Creating package registration file:
+/home/travis/build/ezyang/cabal/dist-newstyle/tmp/package-registration-336465782861021530

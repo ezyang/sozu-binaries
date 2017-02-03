@@ -1,0 +1,8 @@
+pkgid: stm-2.4.4.1
+src: 8f999095ed8d50d2056fc6e185035ee8166c50751e1af8de02ac38d382bf3384
+deps: array-0.5.1.0-960bf9ae8875cc30355e086f8853a049, base-4.8.2.0-0d6d1084fbc041e1cded9228e80e264d
+compilerid: ghc-7.10.3
+platform: x86_64-linux
+shared-lib: True
+stripped-exe: False
+debug-info: 0

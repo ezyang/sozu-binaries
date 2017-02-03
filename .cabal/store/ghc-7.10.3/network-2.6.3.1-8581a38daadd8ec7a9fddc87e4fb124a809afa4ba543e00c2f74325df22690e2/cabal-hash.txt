@@ -1,0 +1,8 @@
+pkgid: network-2.6.3.1
+src: 57045f5e2bedc095670182130a6d1134fcc65d097824ac5b03933876067d82e6
+deps: base-4.8.2.0-0d6d1084fbc041e1cded9228e80e264d, bytestring-0.10.6.0-c60f4c543b22c7f7293a06ae48820437, unix-2.7.1.0-343d4f566f30113da92e819f4a148640
+compilerid: ghc-7.10.3
+platform: x86_64-linux
+shared-lib: True
+stripped-exe: False
+debug-info: 0

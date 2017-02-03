@@ -1,0 +1,10 @@
+Configuring ansi-terminal-0.6.2.3...
+Building ansi-terminal-0.6.2.3...
+Preprocessing library ansi-terminal-0.6.2.3...
+[1 of 3] Compiling System.Console.ANSI.Common ( System/Console/ANSI/Common.hs, dist/build/System/Console/ANSI/Common.o )
+[2 of 3] Compiling System.Console.ANSI.Unix ( System/Console/ANSI/Unix.hs, dist/build/System/Console/ANSI/Unix.o )
+[3 of 3] Compiling System.Console.ANSI ( System/Console/ANSI.hs, dist/build/System/Console/ANSI.o )
+Installing library in
+/home/travis/.cabal/store/ghc-7.10.3/ansi-terminal-0.6.2.3-df157e18f46815dbb4ca873a62969b4b6307150f8fdf2b5dfc55b161b91a2081/lib
+Creating package registration file:
+/home/travis/build/ezyang/cabal/dist-newstyle/tmp/package-registration-10125029541272469786

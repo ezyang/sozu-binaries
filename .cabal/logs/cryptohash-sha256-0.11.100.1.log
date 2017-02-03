@@ -1,0 +1,13 @@
+Configuring cryptohash-sha256-0.11.100.1...
+Building cryptohash-sha256-0.11.100.1...
+Preprocessing library cryptohash-sha256-0.11.100.1...
+[1 of 1] Compiling Crypto.Hash.SHA256 ( src/Crypto/Hash/SHA256.hs, dist/build/Crypto/Hash/SHA256.o )
+
+src/Crypto/Hash/SHA256.hs:124:11: Warning:
+    Rule "digestSize" may never fire
+      because ‘B.length’ might inline first
+    Probable fix: add an INLINE[n] or NOINLINE[n] pragma on ‘B.length’
+Installing library in
+/home/travis/.cabal/store/ghc-7.10.3/cryptohash-sha256-0.11.100.1-08500ba5a115fa447e7325de60d3fe164ec041290210f0644c1421a6c44a1b29/lib
+Creating package registration file:
+/home/travis/build/ezyang/cabal/dist-newstyle/tmp/package-registration-20448977631967513926

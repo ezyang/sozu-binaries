@@ -1,0 +1,15 @@
+Configuring tasty-hunit-0.9.2...
+Building tasty-hunit-0.9.2...
+Preprocessing library tasty-hunit-0.9.2...
+[1 of 3] Compiling Test.Tasty.HUnit.Orig ( Test/Tasty/HUnit/Orig.hs, dist/build/Test/Tasty/HUnit/Orig.o )
+[2 of 3] Compiling Test.Tasty.HUnit.Steps ( Test/Tasty/HUnit/Steps.hs, dist/build/Test/Tasty/HUnit/Steps.o )
+
+Test/Tasty/HUnit/Steps.hs:4:1: Warning:
+    The import of ‘Control.Applicative’ is redundant
+      except perhaps to import instances from ‘Control.Applicative’
+    To import instances alone, use: import Control.Applicative()
+[3 of 3] Compiling Test.Tasty.HUnit ( Test/Tasty/HUnit.hs, dist/build/Test/Tasty/HUnit.o )
+Installing library in
+/home/travis/.cabal/store/ghc-7.10.3/tasty-hunit-0.9.2-6752c94ceca461fe3b95690c0475c97a8beac84f489fc893198572504633b1e4/lib
+Creating package registration file:
+/home/travis/build/ezyang/cabal/dist-newstyle/tmp/package-registration-19509559391335939811
