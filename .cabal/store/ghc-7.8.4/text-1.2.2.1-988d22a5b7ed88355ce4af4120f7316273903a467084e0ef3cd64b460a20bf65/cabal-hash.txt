@@ -1,0 +1,9 @@
+pkgid: text-1.2.2.1
+src: 1addb1bdf36293c996653c9a0a320b5491714495862d997a23fb1ecd41ff395b
+deps: array-0.5.0.0-470385a50d2b78598af85cfe9d988e1b, base-4.7.0.2-918c7ac27f65a87103264a9f51652d63, binary-0.7.1.0-108d06eea2ef05e517f9c1facf10f63c, bytestring-0.10.4.0-78bc8f2c724c765c78c004a84acf6cc3, deepseq-1.3.0.2-0ddc77716bd2515426e1ba39f6788a4f, ghc-prim-0.3.1.0-a24f9c14c632d75b683d0f93283aea37, integer-gmp-0.5.1.0-26579559b3647acf4f01d5edd9491a46
+compilerid: ghc-7.8.4
+platform: x86_64-osx
+flags: -developer -integer-simple
+shared-lib: True
+stripped-exe: False
+debug-info: 0

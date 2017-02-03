@@ -1,0 +1,9 @@
+pkgid: semigroups-0.18.2
+src: 5dc9ff8622af25412fb071098063da288cd408a844e67c3371b78daa86d5d0e4
+deps: base-4.7.0.2-918c7ac27f65a87103264a9f51652d63, binary-0.7.1.0-108d06eea2ef05e517f9c1facf10f63c, bytestring-0.10.4.0-78bc8f2c724c765c78c004a84acf6cc3, containers-0.5.5.1-d7910f1cd81272c1f31ca9f71d0f206e, deepseq-1.3.0.2-0ddc77716bd2515426e1ba39f6788a4f, hashable-1.2.5.0-5ebc863a7d609aa1f12328162f29737912346cb6ba321ded3f86e1fe49ff3a54, nats-1.1.1-609e39bdae46bd4d8118335bda42f3374535840b6a59b54af9a49e75b7376cfe, tagged-0.8.5-03f65d6f1e2a2a9da1cece1756d976b4fdf6af42fc613738ae7e97a874157b0c, text-1.2.2.1-988d22a5b7ed88355ce4af4120f7316273903a467084e0ef3cd64b460a20bf65, transformers-0.5.2.0-1b73a1d7cae4d15b1400dd98d0d36101ee0b33b412013ffa54a25be3da147276, unordered-containers-0.2.7.2-4d490e3f10d99b8469304cf5ce48283c9ea859fb816e9aa01e1429fa52359804
+compilerid: ghc-7.8.4
+platform: x86_64-osx
+flags: +binary +bytestring -bytestring-builder +containers +deepseq +hashable +tagged +text +transformers +unordered-containers
+shared-lib: True
+stripped-exe: False
+debug-info: 0

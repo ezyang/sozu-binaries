@@ -1,0 +1,9 @@
+pkgid: HTTP-4000.3.5
+src: bca0bf130666e924abaf3daff22be6e27928f83f91d6a34cbc39616497908aed
+deps: array-0.5.0.0-470385a50d2b78598af85cfe9d988e1b, base-4.7.0.2-918c7ac27f65a87103264a9f51652d63, bytestring-0.10.4.0-78bc8f2c724c765c78c004a84acf6cc3, mtl-2.2.1-4f14cc834ea7fd15bac8cf498b66529a8cef94f5999dfe5c7688a1e8fda14528, network-2.6.3.1-037ccaff66045f8a37fd86bdeafddc0e4459fcb295b39dc110b49cfbfb0578a2, network-uri-2.6.1.0-a22a364839f7ffba3379695498d4870fd82acddd0a4836c12cd8b6746ced3fba, parsec-3.1.11-0b1e4a1c54079668c39e53771c7aedb3716f584926875b273bd23090a094da4d, time-1.4.2-192d26f44a2c945780bbb921626c3399
+compilerid: ghc-7.8.4
+platform: x86_64-osx
+flags: -conduit10 -mtl1 +network-uri -network23 -warn-as-error +warp-tests
+shared-lib: True
+stripped-exe: False
+debug-info: 0
