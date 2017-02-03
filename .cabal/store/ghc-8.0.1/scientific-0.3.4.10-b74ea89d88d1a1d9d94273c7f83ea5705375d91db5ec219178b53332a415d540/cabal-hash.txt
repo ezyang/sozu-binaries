@@ -1,0 +1,9 @@
+pkgid: scientific-0.3.4.10
+src: 4d3b8ae5d741facfb0e84a2f1b6964a7ab3817269568c37de44f1be5cc0ff1a1
+deps: base-4.9.0.0, binary-0.8.3.0, bytestring-0.10.8.1, containers-0.5.7.1, deepseq-1.4.2.0, ghc-prim-0.5.0.0, hashable-1.2.5.0-5de5af90c51935beb066357bc7eb61b3c49d4df451b89b84649488344792a909, integer-gmp-1.0.0.1, integer-logarithms-1.0.1-b2759f77b6e5749fb56edb3bfeb6bd34c93d928633154f3b0670d20a91b50294, text-1.2.2.1-d0acaa92e9fb85d7444f53f19f3d973bd65daf6a34bc69c51e7b753193495eb4, vector-0.12.0.0-c23575491807c6a98831c2669476ba2725fa9415e9ca4a17fac071c09ad4aa52
+compilerid: ghc-8.0.1
+platform: x86_64-osx
+flags: -bytestring-builder -integer-simple
+shared-lib: True
+stripped-exe: False
+debug-info: 0

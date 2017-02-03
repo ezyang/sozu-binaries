@@ -1,0 +1,9 @@
+pkgid: clock-0.7.2
+src: 886601978898d3a91412fef895e864576a7125d661e1f8abc49a2a08840e691f
+deps: base-4.9.0.0
+compilerid: ghc-8.0.1
+platform: x86_64-osx
+flags: -llvm
+shared-lib: True
+stripped-exe: False
+debug-info: 0

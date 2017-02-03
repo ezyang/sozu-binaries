@@ -1,0 +1,8 @@
+pkgid: tasty-0.11.1
+src: ab9f83401ba8b99d05bc85e2447e32416da593684daae14647777db8bb5eabdc
+deps: ansi-terminal-0.6.2.3-1501387925b7e6721fdb56a010df2d18ec343c5d1fbe1e0d370bfd741daca231, async-2.1.1-eeea2a321d3ba2d496bfec51ec015587e63752de65ae219c742dbebbf832ef7b, base-4.9.0.0, clock-0.7.2-6a61e17015bd51708033d919e7330f9238a93c866b98a6e3e1a4f2a216bbb0a9, containers-0.5.7.1, deepseq-1.4.2.0, mtl-2.2.1-479fbaff250c9c4f9bb9e16417766e9d8363ff778551e6afdece526fcaec8c9b, optparse-applicative-0.12.1.0-bae3bf5294af98270e10b1c4cddf6978695e82d853addbe675f7f087d279004f, regex-tdfa-1.2.2-063b62f5574a1f7387c589651f2f459c2ef227f8d7fcdb5685075077f10fc5e3, stm-2.4.4.1-421e188ece864947a47e77ff8b9cd756751ad0f1d0e82ccfa3c3b3167a50304c, tagged-0.8.5-e7170196e1af70c0a351cf2bc3591f5387ac24897340a8183c1ebfdd2dada4d4, unbounded-delays-0.1.0.9-f8b325353e30793972f782bf0ea03e5909c1fd93875dae668ef86e31aefd6841
+compilerid: ghc-8.0.1
+platform: x86_64-osx
+shared-lib: True
+stripped-exe: False
+debug-info: 0

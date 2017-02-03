@@ -1,0 +1,9 @@
+pkgid: regex-posix-0.95.2
+src: 56019921cd4a4c9682b81ec614236fea816ba8ed8785a1640cd66d8b24fc703e
+deps: array-0.5.1.1, base-4.9.0.0, bytestring-0.10.8.1, containers-0.5.7.1, regex-base-0.93.2-3d29b346133876530022ec29d57374df1aa238e3824e8d9b4d6f268fc7cda00b
+compilerid: ghc-8.0.1
+platform: x86_64-osx
+flags: +newbase +splitbase
+shared-lib: True
+stripped-exe: False
+debug-info: 0

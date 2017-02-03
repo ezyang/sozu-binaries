@@ -1,0 +1,9 @@
+pkgid: vector-0.12.0.0
+src: 27bf375d0efbff61acaeb75a2047afcbdac930191069a59da4a474b9bf80ec95
+deps: base-4.9.0.0, deepseq-1.4.2.0, ghc-prim-0.5.0.0, primitive-0.6.2.0-f9dd0957d4caa4f30843bfb995ff18bf9b43d43ba8e6f74105c706387529970e
+compilerid: ghc-8.0.1
+platform: x86_64-osx
+flags: +boundschecks -internalchecks -unsafechecks -wall
+shared-lib: True
+stripped-exe: False
+debug-info: 0
