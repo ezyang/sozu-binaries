@@ -1,0 +1,7 @@
+pkgid: base16-bytestring-0.1.1.6
+src: 5afe65a152c5418f5f4e3579a5e0d5ca19c279dc9bf31c1a371ccbe84705c449
+deps: base-4.6.0.1-8aa5d403c45ea59dcd2c39f123e27d57, bytestring-0.10.0.2-4f93248f75667c2c3321a7a6761b576f, ghc-prim-0.3.0.0-d5221a8c8a269b66ab9a07bdc23317dd
+compilerid: ghc-7.6.3
+platform: x86_64-linux
+stripped-exe: False
+debug-info: 0

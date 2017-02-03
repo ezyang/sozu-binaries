@@ -1,0 +1,7 @@
+pkgid: network-uri-2.6.1.0
+src: 423e0a2351236f3fcfd24e39cdbc38050ec2910f82245e69ca72a661f7fc47f0
+deps: base-4.6.0.1-8aa5d403c45ea59dcd2c39f123e27d57, deepseq-1.3.0.1-5cc4cd89bdc2e8f6db1833d95ec36926, parsec-3.1.11-85b897a278ef9a80c5d9e2b10c166749c7ff683e3b5889591b097774cd99c356
+compilerid: ghc-7.6.3
+platform: x86_64-linux
+stripped-exe: False
+debug-info: 0

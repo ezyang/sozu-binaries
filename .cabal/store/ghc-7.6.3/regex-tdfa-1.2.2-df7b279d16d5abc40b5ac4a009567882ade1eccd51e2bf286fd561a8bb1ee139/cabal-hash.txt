@@ -1,0 +1,8 @@
+pkgid: regex-tdfa-1.2.2
+src: cb12d675be7b31ed8086d8d022023d03eb553e55dbee6e1b7a4154933d471d39
+deps: array-0.4.0.1-3b78425c10ff2dad7acf7e8c8ae014c3, base-4.6.0.1-8aa5d403c45ea59dcd2c39f123e27d57, bytestring-0.10.0.2-4f93248f75667c2c3321a7a6761b576f, containers-0.5.0.0-ab1dae9a94cd3cc84e7b2805636ebfa2, ghc-prim-0.3.0.0-d5221a8c8a269b66ab9a07bdc23317dd, mtl-2.2.1-330b176078b7fe7c2febcc7ff7a7b4a02793bf8d3da01277b3ebf5463f24675d, parsec-3.1.11-85b897a278ef9a80c5d9e2b10c166749c7ff683e3b5889591b097774cd99c356, regex-base-0.93.2-50590618652733655aa400bc402e5b023c6ada646c3db313fe64c52e2adffff8
+compilerid: ghc-7.6.3
+platform: x86_64-linux
+flags: -devel
+stripped-exe: False
+debug-info: 0
