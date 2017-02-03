@@ -1,0 +1,9 @@
+pkgid: attoparsec-0.13.1.0
+src: 52dc74d4955e457ce4f76f5c9d6dba05c1d07e2cd2a542d6251c6dbc66ce3f64
+deps: array-0.5.1.1, base-4.9.0.0, bytestring-0.10.8.1, containers-0.5.7.1, deepseq-1.4.2.0, scientific-0.3.4.10-4ca62a47b78aecb3ef2e0d78bc7c2f2fe4690dfdfd3231317104923823e85cad, text-1.2.2.1-6dd39317d9d2e9eba7d59d829b9928808ea2c1766ae54e05604c3fc15d9af106, transformers-0.5.2.0
+compilerid: ghc-8.0.1
+platform: x86_64-linux
+flags: -developer
+shared-lib: True
+stripped-exe: False
+debug-info: 0
