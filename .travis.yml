@@ -18,7 +18,7 @@ before_install:
 script:
     - ./travis-test.sh
 notifications:
-    webhooks:
+  webhooks:
         urls: https://sake-bot.herokuapp.com/
         on_start: always
   irc:
