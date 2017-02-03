@@ -1,0 +1,9 @@
+pkgid: echo-0.1.3
+src: 704f07310f8272d170f8ab7fb2a2c13f15d8501ef8310801e36964c8eff485ef
+deps: base-4.7.0.2-bfd89587617e381ae01b8dd7b6c7f1c1, process-1.4.3.0-65ad320ec60032cec31dcc41da3fa4e98abbe75334dd4ce66ae7d69a41d947ee
+compilerid: ghc-7.8.4
+platform: x86_64-linux
+flags: -example
+shared-lib: True
+stripped-exe: False
+debug-info: 0
