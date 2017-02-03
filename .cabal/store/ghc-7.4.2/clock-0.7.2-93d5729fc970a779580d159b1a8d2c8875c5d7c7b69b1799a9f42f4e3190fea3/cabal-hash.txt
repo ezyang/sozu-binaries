@@ -1,0 +1,8 @@
+pkgid: clock-0.7.2
+src: 886601978898d3a91412fef895e864576a7125d661e1f8abc49a2a08840e691f
+deps: base-4.5.1.0-6e4c9bdc36eeb9121f27ccbbcb62e3f3, ghc-prim-0.2.0.0-7d3c2c69a5e8257a04b2c679c40e2fa7
+compilerid: ghc-7.4.2
+platform: x86_64-linux
+flags: -llvm
+stripped-exe: False
+debug-info: 0

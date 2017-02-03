@@ -1,0 +1,7 @@
+pkgid: unix-2.7.2.1
+src: fc05365594367779122465eee132162267c319c3679ff801f050ed30d18d099c
+deps: base-4.5.1.0-6e4c9bdc36eeb9121f27ccbbcb62e3f3, bytestring-0.9.2.1-503e91bb155301fdb1956cb5c26ce6e9, time-1.4-d61e2caaa0486655b4e141dc277ed49f
+compilerid: ghc-7.4.2
+platform: x86_64-linux
+stripped-exe: False
+debug-info: 0
