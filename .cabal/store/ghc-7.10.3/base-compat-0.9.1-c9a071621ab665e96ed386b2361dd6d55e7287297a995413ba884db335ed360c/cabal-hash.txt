@@ -1,0 +1,8 @@
+pkgid: base-compat-0.9.1
+src: 1033b48146b9ffcf4f7c75a321ea0b1525c1b662230f46c41957a1b501b6464a
+deps: base-4.8.2.0-cc43d8e06aa74e9c4c0132becc49ee25, unix-2.7.1.0-3d39e78228b30316716e447e1283b3f0
+compilerid: ghc-7.10.3
+platform: x86_64-osx
+shared-lib: True
+stripped-exe: False
+debug-info: 0

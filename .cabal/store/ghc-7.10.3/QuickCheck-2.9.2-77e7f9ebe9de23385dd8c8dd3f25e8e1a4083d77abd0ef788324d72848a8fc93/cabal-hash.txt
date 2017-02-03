@@ -1,0 +1,9 @@
+pkgid: QuickCheck-2.9.2
+src: 155c1656f583bc797587846ee1959143d2b1b9c88fbcb9d3f510f58d8fb93685
+deps: base-4.8.2.0-cc43d8e06aa74e9c4c0132becc49ee25, containers-0.5.6.2-68e3ece8a4f91a31e327fe89f8052a53, random-1.1-83200eb2fe1637f3ebcf3617b5866d562aaa07184ddbd3041fb7f591630d155d, semigroups-0.18.2-277ffd035007dd622c97047e3c017e5840269f293f1dae0bfb49404bc6e20328, template-haskell-2.10.0.0-c5036b5d1f11290a936c690d2f1bbd7f, tf-random-0.5-45eadcd9b0127fecbb9abdb73c3ea62241a7b2a809214fd102ab1b61e5e30d73, transformers-0.4.2.0-81450cd8f86b36eaa8fa0cbaf6efc3a3
+compilerid: ghc-7.10.3
+platform: x86_64-osx
+flags: +templatehaskell
+shared-lib: True
+stripped-exe: False
+debug-info: 0

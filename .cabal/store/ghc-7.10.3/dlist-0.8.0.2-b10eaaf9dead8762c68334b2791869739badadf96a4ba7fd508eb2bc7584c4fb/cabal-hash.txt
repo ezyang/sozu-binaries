@@ -1,0 +1,8 @@
+pkgid: dlist-0.8.0.2
+src: 77397ecfb9a7cbfac15226cbe09ec156a3deb6e21c7af948bc8ab459e88641b1
+deps: base-4.8.2.0-cc43d8e06aa74e9c4c0132becc49ee25, deepseq-1.4.1.1-8eec8f9bea2efc2500f63544ec6ca569
+compilerid: ghc-7.10.3
+platform: x86_64-osx
+shared-lib: True
+stripped-exe: False
+debug-info: 0
