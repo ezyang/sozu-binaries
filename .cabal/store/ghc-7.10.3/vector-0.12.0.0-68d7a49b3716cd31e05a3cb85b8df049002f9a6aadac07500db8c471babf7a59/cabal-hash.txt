@@ -1,0 +1,9 @@
+pkgid: vector-0.12.0.0
+src: 27bf375d0efbff61acaeb75a2047afcbdac930191069a59da4a474b9bf80ec95
+deps: base-4.8.2.0-0d6d1084fbc041e1cded9228e80e264d, deepseq-1.4.1.1-614b63b36dd6e29d2b35afff57c25311, ghc-prim-0.4.0.0-6cdc86811872333585fa98756aa7c51e, primitive-0.6.2.0-2931e729d15e8bd8e3f78f9307a5339c6c284c4b1afd62aa5c7c1d2fb00e5c69, semigroups-0.18.2-f77d100f5732d0fbffa16ed7cfcc3d273c9c36aecd13f88415c3a9617e408c07
+compilerid: ghc-7.10.3
+platform: x86_64-linux
+flags: +boundschecks -internalchecks -unsafechecks -wall
+shared-lib: True
+stripped-exe: False
+debug-info: 0

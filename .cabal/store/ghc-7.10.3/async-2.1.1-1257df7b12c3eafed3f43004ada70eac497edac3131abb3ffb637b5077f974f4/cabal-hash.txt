@@ -1,0 +1,8 @@
+pkgid: async-2.1.1
+src: 24134b36921f9874abb73be90886b4c23a67a9b4990f2d8e32d08dbfa5f74f90
+deps: base-4.8.2.0-0d6d1084fbc041e1cded9228e80e264d, stm-2.4.4.1-9b6898d9f697f9bf82ca249a4848d3ceb6150b90b1c084e02e4b90cb5746b930
+compilerid: ghc-7.10.3
+platform: x86_64-linux
+shared-lib: True
+stripped-exe: False
+debug-info: 0
