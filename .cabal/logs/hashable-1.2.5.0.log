@@ -1,0 +1,11 @@
+Configuring hashable-1.2.5.0...
+Building hashable-1.2.5.0...
+Preprocessing library hashable-1.2.5.0...
+[1 of 4] Compiling Data.Hashable.Class ( Data/Hashable/Class.hs, dist/build/Data/Hashable/Class.o )
+[2 of 4] Compiling Data.Hashable.Generic ( Data/Hashable/Generic.hs, dist/build/Data/Hashable/Generic.o )
+[3 of 4] Compiling Data.Hashable.Lifted ( Data/Hashable/Lifted.hs, dist/build/Data/Hashable/Lifted.o )
+[4 of 4] Compiling Data.Hashable    ( Data/Hashable.hs, dist/build/Data/Hashable.o )
+Installing library in
+/home/travis/.cabal/store/ghc-7.8.4/hashable-1.2.5.0-28c408c354fff20b337f98da8ef0861f0e81a097039d3dfee474e4ff0b5b49cd/lib
+Creating package registration file:
+/home/travis/build/ezyang/cabal/dist-newstyle/tmp/package-registration-8468111271414829150

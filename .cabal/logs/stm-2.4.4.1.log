@@ -1,0 +1,17 @@
+Configuring stm-2.4.4.1...
+Building stm-2.4.4.1...
+Preprocessing library stm-2.4.4.1...
+[ 1 of 10] Compiling Control.Sequential.STM ( Control/Sequential/STM.hs, dist/build/Control/Sequential/STM.o )
+[ 2 of 10] Compiling Control.Concurrent.STM.TBQueue ( Control/Concurrent/STM/TBQueue.hs, dist/build/Control/Concurrent/STM/TBQueue.o )
+[ 3 of 10] Compiling Control.Concurrent.STM.TQueue ( Control/Concurrent/STM/TQueue.hs, dist/build/Control/Concurrent/STM/TQueue.o )
+[ 4 of 10] Compiling Control.Concurrent.STM.TChan ( Control/Concurrent/STM/TChan.hs, dist/build/Control/Concurrent/STM/TChan.o )
+[ 5 of 10] Compiling Control.Concurrent.STM.TMVar ( Control/Concurrent/STM/TMVar.hs, dist/build/Control/Concurrent/STM/TMVar.o )
+[ 6 of 10] Compiling Control.Concurrent.STM.TVar ( Control/Concurrent/STM/TVar.hs, dist/build/Control/Concurrent/STM/TVar.o )
+[ 7 of 10] Compiling Control.Concurrent.STM.TArray ( Control/Concurrent/STM/TArray.hs, dist/build/Control/Concurrent/STM/TArray.o )
+[ 8 of 10] Compiling Control.Monad.STM ( Control/Monad/STM.hs, dist/build/Control/Monad/STM.o )
+[ 9 of 10] Compiling Control.Concurrent.STM ( Control/Concurrent/STM.hs, dist/build/Control/Concurrent/STM.o )
+[10 of 10] Compiling Control.Concurrent.STM.TSem ( Control/Concurrent/STM/TSem.hs, dist/build/Control/Concurrent/STM/TSem.o )
+Installing library in
+/home/travis/.cabal/store/ghc-7.8.4/stm-2.4.4.1-a9b7ef220f97c0534a1f8ea2bb388fa27b4c74c06b5e48a46803b6af3b83c3f3/lib
+Creating package registration file:
+/home/travis/build/ezyang/cabal/dist-newstyle/tmp/package-registration-133535434087755422

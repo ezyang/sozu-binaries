@@ -1,0 +1,49 @@
+Configuring directory-1.2.7.1...
+checking for gcc... /usr/bin/gcc
+checking whether the C compiler works... yes
+checking for C compiler default output file name... a.out
+checking for suffix of executables... 
+checking whether we are cross compiling... no
+checking for suffix of object files... o
+checking whether we are using the GNU C compiler... yes
+checking whether /usr/bin/gcc accepts -g... yes
+checking for /usr/bin/gcc option to accept ISO C89... none needed
+checking how to run the C preprocessor... /usr/bin/gcc -E
+checking for grep that handles long lines and -e... /bin/grep
+checking for egrep... /bin/grep -E
+checking for ANSI C header files... yes
+checking for sys/types.h... yes
+checking for sys/stat.h... yes
+checking for stdlib.h... yes
+checking for string.h... yes
+checking for memory.h... yes
+checking for strings.h... yes
+checking for inttypes.h... yes
+checking for stdint.h... yes
+checking for unistd.h... yes
+checking fcntl.h usability... yes
+checking fcntl.h presence... yes
+checking for fcntl.h... yes
+checking limits.h usability... yes
+checking limits.h presence... yes
+checking for limits.h... yes
+checking for sys/types.h... (cached) yes
+checking for sys/stat.h... (cached) yes
+checking time.h usability... yes
+checking time.h presence... yes
+checking for time.h... yes
+checking for utimensat... yes
+configure: creating ./config.status
+config.status: creating HsDirectoryConfig.h
+Building directory-1.2.7.1...
+Preprocessing library directory-1.2.7.1...
+[1 of 6] Compiling System.Directory.Internal.Windows ( dist/build/System/Directory/Internal/Windows.hs, dist/build/System/Directory/Internal/Windows.o )
+[2 of 6] Compiling System.Directory.Internal.Posix ( dist/build/System/Directory/Internal/Posix.hs, dist/build/System/Directory/Internal/Posix.o )
+[3 of 6] Compiling System.Directory.Internal.C_utimensat ( dist/build/System/Directory/Internal/C_utimensat.hs, dist/build/System/Directory/Internal/C_utimensat.o )
+[4 of 6] Compiling System.Directory.Internal.Config ( System/Directory/Internal/Config.hs, dist/build/System/Directory/Internal/Config.o )
+[5 of 6] Compiling System.Directory.Internal ( System/Directory/Internal.hs, dist/build/System/Directory/Internal.o )
+[6 of 6] Compiling System.Directory ( System/Directory.hs, dist/build/System/Directory.o )
+Installing library in
+/home/travis/.cabal/store/ghc-7.8.4/directory-1.2.7.1-991ebd97d6a997e2bd372b5e9570521c2a445abb19d02e7ec094b0a8d0854b68/lib
+Creating package registration file:
+/home/travis/build/ezyang/cabal/dist-newstyle/tmp/package-registration-6384220901943327684

@@ -1,0 +1,9 @@
+pkgid: hashable-1.2.5.0
+src: 153eb1614a739f3ccf8c5fcd4230a17b8b24862ab727c46dd4acd22bc15fb2bc
+deps: base-4.7.0.2-bfd89587617e381ae01b8dd7b6c7f1c1, bytestring-0.10.4.0-d6f1d17d717e8652498cab8269a0acd5, ghc-prim-0.3.1.0-a24f9c14c632d75b683d0f93283aea37, integer-gmp-0.5.1.0-26579559b3647acf4f01d5edd9491a46, text-1.2.2.1-edf142758954ed90129e9ba1d07d8c7575f8c4a526db1a6498541e848a02e155
+compilerid: ghc-7.8.4
+platform: x86_64-linux
+flags: -examples +integer-gmp +sse2 -sse41
+shared-lib: True
+stripped-exe: False
+debug-info: 0

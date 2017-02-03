@@ -1,0 +1,83 @@
+Configuring tasty-0.11.1...
+Building tasty-0.11.1...
+Preprocessing library tasty-0.11.1...
+[ 1 of 18] Compiling Test.Tasty.Parallel ( Test/Tasty/Parallel.hs, dist/build/Test/Tasty/Parallel.o )
+[ 2 of 18] Compiling Test.Tasty.Runners.Utils ( Test/Tasty/Runners/Utils.hs, dist/build/Test/Tasty/Runners/Utils.o )
+[ 3 of 18] Compiling Test.Tasty.Runners.Reducers ( Test/Tasty/Runners/Reducers.hs, dist/build/Test/Tasty/Runners/Reducers.o )
+[ 4 of 18] Compiling Test.Tasty.Options ( Test/Tasty/Options.hs, dist/build/Test/Tasty/Options.o )
+
+Test/Tasty/Options.hs:29:1: Warning:
+    The import of ‘Data.Proxy’ is redundant
+      except perhaps to import instances from ‘Data.Proxy’
+    To import instances alone, use: import Data.Proxy()
+[ 5 of 18] Compiling Test.Tasty.Patterns ( Test/Tasty/Patterns.hs, dist/build/Test/Tasty/Patterns.o )
+
+Test/Tasty/Patterns.hs:47:1: Warning:
+    The import of ‘Data.Tagged’ is redundant
+      except perhaps to import instances from ‘Data.Tagged’
+    To import instances alone, use: import Data.Tagged()
+
+Test/Tasty/Patterns.hs:50:1: Warning:
+    The import of ‘Data.Monoid’ is redundant
+      except perhaps to import instances from ‘Data.Monoid’
+    To import instances alone, use: import Data.Monoid()
+[ 6 of 18] Compiling Test.Tasty.Options.Core ( Test/Tasty/Options/Core.hs, dist/build/Test/Tasty/Options/Core.o )
+
+Test/Tasty/Options/Core.hs:14:1: Warning:
+    The import of ‘Data.Proxy’ is redundant
+      except perhaps to import instances from ‘Data.Proxy’
+    To import instances alone, use: import Data.Proxy()
+
+Test/Tasty/Options/Core.hs:15:1: Warning:
+    The import of ‘Data.Tagged’ is redundant
+      except perhaps to import instances from ‘Data.Tagged’
+    To import instances alone, use: import Data.Tagged()
+
+Test/Tasty/Options/Core.hs:17:1: Warning:
+    The import of ‘Data.Monoid’ is redundant
+      except perhaps to import instances from ‘Data.Monoid’
+    To import instances alone, use: import Data.Monoid()
+[ 7 of 18] Compiling Test.Tasty.Core  ( Test/Tasty/Core.hs, dist/build/Test/Tasty/Core.o )
+[ 8 of 18] Compiling Test.Tasty.Providers ( Test/Tasty/Providers.hs, dist/build/Test/Tasty/Providers.o )
+[ 9 of 18] Compiling Test.Tasty.Run   ( Test/Tasty/Run.hs, dist/build/Test/Tasty/Run.o )
+
+Test/Tasty/Run.hs:306:25: Warning:
+    In the use of ‘Clock.timeSpecAsNanoSecs’
+    (imported from System.Clock):
+    Deprecated: "Use toNanoSecs instead! Replaced timeSpecAsNanoSecs with the same signature TimeSpec -> Integer"
+
+Test/Tasty/Run.hs:307:20: Warning:
+    Defaulting the following constraint(s) to type ‘Integer’
+      (Num b0) arising from the literal ‘9’ at Test/Tasty/Run.hs:307:20
+      (Integral b0) arising from a use of ‘^’ at Test/Tasty/Run.hs:307:19
+    In the second argument of ‘(^)’, namely ‘9’
+    In the second argument of ‘(/)’, namely ‘10 ^ 9’
+    In the second argument of ‘($)’, namely ‘ns / 10 ^ 9’
+[10 of 18] Compiling Test.Tasty.Ingredients ( Test/Tasty/Ingredients.hs, dist/build/Test/Tasty/Ingredients.o )
+[11 of 18] Compiling Test.Tasty.Ingredients.IncludingOptions ( Test/Tasty/Ingredients/IncludingOptions.hs, dist/build/Test/Tasty/Ingredients/IncludingOptions.o )
+[12 of 18] Compiling Test.Tasty.Ingredients.ConsoleReporter ( Test/Tasty/Ingredients/ConsoleReporter.hs, dist/build/Test/Tasty/Ingredients/ConsoleReporter.o )
+
+Test/Tasty/Ingredients/ConsoleReporter.hs:28:1: Warning:
+    The import of ‘Data.Tagged’ is redundant
+      except perhaps to import instances from ‘Data.Tagged’
+    To import instances alone, use: import Data.Tagged()
+[13 of 18] Compiling Test.Tasty.Ingredients.ListTests ( Test/Tasty/Ingredients/ListTests.hs, dist/build/Test/Tasty/Ingredients/ListTests.o )
+
+Test/Tasty/Ingredients/ListTests.hs:10:1: Warning:
+    The import of ‘Data.Proxy’ is redundant
+      except perhaps to import instances from ‘Data.Proxy’
+    To import instances alone, use: import Data.Proxy()
+
+Test/Tasty/Ingredients/ListTests.hs:11:1: Warning:
+    The import of ‘Data.Monoid’ is redundant
+      except perhaps to import instances from ‘Data.Monoid’
+    To import instances alone, use: import Data.Monoid()
+[14 of 18] Compiling Test.Tasty.Ingredients.Basic ( Test/Tasty/Ingredients/Basic.hs, dist/build/Test/Tasty/Ingredients/Basic.o )
+[15 of 18] Compiling Test.Tasty.Options.Env ( Test/Tasty/Options/Env.hs, dist/build/Test/Tasty/Options/Env.o )
+[16 of 18] Compiling Test.Tasty.CmdLine ( Test/Tasty/CmdLine.hs, dist/build/Test/Tasty/CmdLine.o )
+[17 of 18] Compiling Test.Tasty.Runners ( Test/Tasty/Runners.hs, dist/build/Test/Tasty/Runners.o )
+[18 of 18] Compiling Test.Tasty       ( Test/Tasty.hs, dist/build/Test/Tasty.o )
+Installing library in
+/home/travis/.cabal/store/ghc-7.8.4/tasty-0.11.1-3690e32b20ea7746f84606ce3ca20f72b9b231c1783b9f7bf548aca79b0d93aa/lib
+Creating package registration file:
+/home/travis/build/ezyang/cabal/dist-newstyle/tmp/package-registration-12426088721137949908

@@ -1,0 +1,30 @@
+Configuring regex-tdfa-1.2.2...
+Building regex-tdfa-1.2.2...
+Preprocessing library regex-tdfa-1.2.2...
+[ 1 of 23] Compiling Text.Regex.TDFA.NewDFA.Uncons ( Text/Regex/TDFA/NewDFA/Uncons.hs, dist/build/Text/Regex/TDFA/NewDFA/Uncons.o )
+[ 2 of 23] Compiling Text.Regex.TDFA.IntArrTrieSet ( Text/Regex/TDFA/IntArrTrieSet.hs, dist/build/Text/Regex/TDFA/IntArrTrieSet.o )
+[ 3 of 23] Compiling Paths_regex_tdfa ( dist/build/autogen/Paths_regex_tdfa.hs, dist/build/Paths_regex_tdfa.o )
+[ 4 of 23] Compiling Data.IntSet.EnumSet2 ( Data/IntSet/EnumSet2.hs, dist/build/Data/IntSet/EnumSet2.o )
+[ 5 of 23] Compiling Data.IntMap.EnumMap2 ( Data/IntMap/EnumMap2.hs, dist/build/Data/IntMap/EnumMap2.o )
+[ 6 of 23] Compiling Data.IntMap.CharMap2 ( Data/IntMap/CharMap2.hs, dist/build/Data/IntMap/CharMap2.o )
+[ 7 of 23] Compiling Text.Regex.TDFA.Common ( Text/Regex/TDFA/Common.hs, dist/build/Text/Regex/TDFA/Common.o )
+[ 8 of 23] Compiling Text.Regex.TDFA.Pattern ( Text/Regex/TDFA/Pattern.hs, dist/build/Text/Regex/TDFA/Pattern.o )
+[ 9 of 23] Compiling Text.Regex.TDFA.ReadRegex ( Text/Regex/TDFA/ReadRegex.hs, dist/build/Text/Regex/TDFA/ReadRegex.o )
+[10 of 23] Compiling Text.Regex.TDFA.CorePattern ( Text/Regex/TDFA/CorePattern.hs, dist/build/Text/Regex/TDFA/CorePattern.o )
+[11 of 23] Compiling Text.Regex.TDFA.NewDFA.MakeTest ( Text/Regex/TDFA/NewDFA/MakeTest.hs, dist/build/Text/Regex/TDFA/NewDFA/MakeTest.o )
+[12 of 23] Compiling Text.Regex.TDFA.NewDFA.Tester ( Text/Regex/TDFA/NewDFA/Tester.hs, dist/build/Text/Regex/TDFA/NewDFA/Tester.o )
+[13 of 23] Compiling Text.Regex.TDFA.NewDFA.Engine_FA ( Text/Regex/TDFA/NewDFA/Engine_FA.hs, dist/build/Text/Regex/TDFA/NewDFA/Engine_FA.o )
+[14 of 23] Compiling Text.Regex.TDFA.NewDFA.Engine_NC ( Text/Regex/TDFA/NewDFA/Engine_NC.hs, dist/build/Text/Regex/TDFA/NewDFA/Engine_NC.o )
+[15 of 23] Compiling Text.Regex.TDFA.NewDFA.Engine_NC_FA ( Text/Regex/TDFA/NewDFA/Engine_NC_FA.hs, dist/build/Text/Regex/TDFA/NewDFA/Engine_NC_FA.o )
+[16 of 23] Compiling Text.Regex.TDFA.NewDFA.Engine ( Text/Regex/TDFA/NewDFA/Engine.hs, dist/build/Text/Regex/TDFA/NewDFA/Engine.o )
+[17 of 23] Compiling Text.Regex.TDFA.TNFA ( Text/Regex/TDFA/TNFA.hs, dist/build/Text/Regex/TDFA/TNFA.o )
+[18 of 23] Compiling Text.Regex.TDFA.TDFA ( Text/Regex/TDFA/TDFA.hs, dist/build/Text/Regex/TDFA/TDFA.o )
+[19 of 23] Compiling Text.Regex.TDFA.String ( Text/Regex/TDFA/String.hs, dist/build/Text/Regex/TDFA/String.o )
+[20 of 23] Compiling Text.Regex.TDFA.ByteString ( Text/Regex/TDFA/ByteString.hs, dist/build/Text/Regex/TDFA/ByteString.o )
+[21 of 23] Compiling Text.Regex.TDFA.ByteString.Lazy ( Text/Regex/TDFA/ByteString/Lazy.hs, dist/build/Text/Regex/TDFA/ByteString/Lazy.o )
+[22 of 23] Compiling Text.Regex.TDFA.Sequence ( Text/Regex/TDFA/Sequence.hs, dist/build/Text/Regex/TDFA/Sequence.o )
+[23 of 23] Compiling Text.Regex.TDFA  ( Text/Regex/TDFA.hs, dist/build/Text/Regex/TDFA.o )
+Installing library in
+/home/travis/.cabal/store/ghc-7.8.4/regex-tdfa-1.2.2-6682c6cd9f3dd5e1dc29b384a1469f62024f438af169863837cbf890a7d15aad/lib
+Creating package registration file:
+/home/travis/build/ezyang/cabal/dist-newstyle/tmp/package-registration-88216037911614769

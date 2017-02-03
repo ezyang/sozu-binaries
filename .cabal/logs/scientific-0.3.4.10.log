@@ -1,0 +1,12 @@
+Configuring scientific-0.3.4.10...
+Building scientific-0.3.4.10...
+Preprocessing library scientific-0.3.4.10...
+[1 of 5] Compiling GHC.Integer.Compat ( src/GHC/Integer/Compat.hs, dist/build/GHC/Integer/Compat.o )
+[2 of 5] Compiling Utils            ( src/Utils.hs, dist/build/Utils.o )
+[3 of 5] Compiling Data.Scientific  ( src/Data/Scientific.hs, dist/build/Data/Scientific.o )
+[4 of 5] Compiling Data.Text.Lazy.Builder.Scientific ( src/Data/Text/Lazy/Builder/Scientific.hs, dist/build/Data/Text/Lazy/Builder/Scientific.o )
+[5 of 5] Compiling Data.ByteString.Builder.Scientific ( src/Data/ByteString/Builder/Scientific.hs, dist/build/Data/ByteString/Builder/Scientific.o )
+Installing library in
+/home/travis/.cabal/store/ghc-7.8.4/scientific-0.3.4.10-09f97f687fd30e4be570c1bc4a733d18a4113a0680b88a5b8e789e940508c7c6/lib
+Creating package registration file:
+/home/travis/build/ezyang/cabal/dist-newstyle/tmp/package-registration-5726603361159126505

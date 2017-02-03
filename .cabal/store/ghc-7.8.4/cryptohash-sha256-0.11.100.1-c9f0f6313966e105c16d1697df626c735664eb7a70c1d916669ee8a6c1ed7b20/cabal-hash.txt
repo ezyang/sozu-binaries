@@ -1,0 +1,8 @@
+pkgid: cryptohash-sha256-0.11.100.1
+src: 57b02338e9648639335788b422dd4c744543cb0991347472e2e3628a33c2f5d6
+deps: base-4.7.0.2-bfd89587617e381ae01b8dd7b6c7f1c1, bytestring-0.10.4.0-d6f1d17d717e8652498cab8269a0acd5
+compilerid: ghc-7.8.4
+platform: x86_64-linux
+shared-lib: True
+stripped-exe: False
+debug-info: 0

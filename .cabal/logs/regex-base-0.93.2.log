@@ -1,0 +1,11 @@
+Configuring regex-base-0.93.2...
+Building regex-base-0.93.2...
+Preprocessing library regex-base-0.93.2...
+[1 of 4] Compiling Text.Regex.Base.RegexLike ( Text/Regex/Base/RegexLike.hs, dist/build/Text/Regex/Base/RegexLike.o )
+[2 of 4] Compiling Text.Regex.Base.Context ( Text/Regex/Base/Context.hs, dist/build/Text/Regex/Base/Context.o )
+[3 of 4] Compiling Text.Regex.Base  ( Text/Regex/Base.hs, dist/build/Text/Regex/Base.o )
+[4 of 4] Compiling Text.Regex.Base.Impl ( Text/Regex/Base/Impl.hs, dist/build/Text/Regex/Base/Impl.o )
+Installing library in
+/home/travis/.cabal/store/ghc-7.8.4/regex-base-0.93.2-302a27e6d499f945b265522f3fae66d400855cb6c833aca898324fcd960d1d45/lib
+Creating package registration file:
+/home/travis/build/ezyang/cabal/dist-newstyle/tmp/package-registration-349517445588219756

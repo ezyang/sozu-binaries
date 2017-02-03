@@ -1,0 +1,73 @@
+Configuring HTTP-4000.3.5...
+Building HTTP-4000.3.5...
+Preprocessing library HTTP-4000.3.5...
+[ 1 of 18] Compiling Network.HTTP.MD5Aux ( Network/HTTP/MD5Aux.hs, dist/build/Network/HTTP/MD5Aux.o )
+[ 2 of 18] Compiling Paths_HTTP       ( dist/build/autogen/Paths_HTTP.hs, dist/build/Paths_HTTP.o )
+[ 3 of 18] Compiling Network.HTTP.Base64 ( Network/HTTP/Base64.hs, dist/build/Network/HTTP/Base64.o )
+[ 4 of 18] Compiling Network.Stream   ( Network/Stream.hs, dist/build/Network/Stream.o )
+
+Network/Stream.hs:35:1: Warning:
+    Module ‘Control.Monad.Error’ is deprecated:
+      Use Control.Monad.Except instead
+
+Network/Stream.hs:44:10: Warning:
+    In the use of type constructor or class ‘Error’
+    (imported from Control.Monad.Error, but defined in transformers-0.5.2.0:Control.Monad.Trans.Error):
+    Deprecated: "Use Control.Monad.Trans.Except instead"
+
+Network/Stream.hs:44:10: Warning:
+    In the use of type constructor or class ‘Error’
+    (imported from Control.Monad.Error, but defined in transformers-0.5.2.0:Control.Monad.Trans.Error):
+    Deprecated: "Use Control.Monad.Trans.Except instead"
+
+Network/Stream.hs:45:11: Warning:
+    In the use of ‘strMsg’
+    (imported from Control.Monad.Error, but defined in transformers-0.5.2.0:Control.Monad.Trans.Error):
+    Deprecated: "Use Control.Monad.Trans.Except instead"
+
+Network/Stream.hs:52:24: Warning:
+    In the use of ‘strMsg’
+    (imported from Control.Monad.Error, but defined in transformers-0.5.2.0:Control.Monad.Trans.Error):
+    Deprecated: "Use Control.Monad.Trans.Except instead"
+[ 5 of 18] Compiling Network.HTTP.Utils ( Network/HTTP/Utils.hs, dist/build/Network/HTTP/Utils.o )
+[ 6 of 18] Compiling Network.HTTP.Headers ( Network/HTTP/Headers.hs, dist/build/Network/HTTP/Headers.o )
+[ 7 of 18] Compiling Network.HTTP.Cookie ( Network/HTTP/Cookie.hs, dist/build/Network/HTTP/Cookie.o )
+[ 8 of 18] Compiling Network.BufferType ( Network/BufferType.hs, dist/build/Network/BufferType.o )
+[ 9 of 18] Compiling Network.HTTP.Base ( Network/HTTP/Base.hs, dist/build/Network/HTTP/Base.o )
+
+Network/HTTP/Base.hs:110:1: Warning:
+    Module ‘Control.Monad.Error’ is deprecated:
+      Use Control.Monad.Except instead
+[10 of 18] Compiling Network.TCP      ( Network/TCP.hs, dist/build/Network/TCP.o )
+
+Network/TCP.hs:245:32: Warning:
+    In the use of ‘sClose’ (imported from Network.Socket):
+    Deprecated: "use 'close'"
+
+Network/TCP.hs:298:5: Warning:
+    In the use of ‘sClose’ (imported from Network.Socket):
+    Deprecated: "use 'close'"
+[11 of 18] Compiling Network.StreamDebugger ( Network/StreamDebugger.hs, dist/build/Network/StreamDebugger.o )
+[12 of 18] Compiling Network.StreamSocket ( Network/StreamSocket.hs, dist/build/Network/StreamSocket.o )
+
+Network/StreamSocket.hs:53:21: Warning:
+    In the use of ‘recv’ (imported from Network.Socket):
+    "Use recv defined in "Network.Socket.ByteString""
+
+Network/StreamSocket.hs:62:10: Warning:
+    In the use of ‘sClose’ (imported from Network.Socket):
+    Deprecated: "use 'close'"
+
+Network/StreamSocket.hs:92:12: Warning:
+    In the use of ‘send’ (imported from Network.Socket):
+    "Use send defined in "Network.Socket.ByteString""
+[13 of 18] Compiling Network.HTTP.Auth ( Network/HTTP/Auth.hs, dist/build/Network/HTTP/Auth.o )
+[14 of 18] Compiling Network.HTTP.Proxy ( Network/HTTP/Proxy.hs, dist/build/Network/HTTP/Proxy.o )
+[15 of 18] Compiling Network.HTTP.HandleStream ( Network/HTTP/HandleStream.hs, dist/build/Network/HTTP/HandleStream.o )
+[16 of 18] Compiling Network.HTTP     ( Network/HTTP.hs, dist/build/Network/HTTP.o )
+[17 of 18] Compiling Network.HTTP.Stream ( Network/HTTP/Stream.hs, dist/build/Network/HTTP/Stream.o )
+[18 of 18] Compiling Network.Browser  ( Network/Browser.hs, dist/build/Network/Browser.o )
+Installing library in
+/home/travis/.cabal/store/ghc-7.8.4/HTTP-4000.3.5-0473d45855dbac1b867f1e67b2e5569a70163608b40c32bceffcd4d830ac49bc/lib
+Creating package registration file:
+/home/travis/build/ezyang/cabal/dist-newstyle/tmp/package-registration-9398195822001100545

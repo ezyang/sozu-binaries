@@ -1,0 +1,9 @@
+Configuring tagged-0.8.5...
+Building tagged-0.8.5...
+Preprocessing library tagged-0.8.5...
+[1 of 2] Compiling Data.Proxy.TH    ( src/Data/Proxy/TH.hs, dist/build/Data/Proxy/TH.o )
+[2 of 2] Compiling Data.Tagged      ( src/Data/Tagged.hs, dist/build/Data/Tagged.o )
+Installing library in
+/home/travis/.cabal/store/ghc-7.8.4/tagged-0.8.5-be90fdca51a5ba1b9ccfb5930f499cad9a428f33f2e25e4da5d423371fed6100/lib
+Creating package registration file:
+/home/travis/build/ezyang/cabal/dist-newstyle/tmp/package-registration-1070575321260401255

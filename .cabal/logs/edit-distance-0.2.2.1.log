@@ -1,0 +1,14 @@
+Configuring edit-distance-0.2.2.1...
+Building edit-distance-0.2.2.1...
+Preprocessing library edit-distance-0.2.2.1...
+[1 of 7] Compiling Text.EditDistance.ArrayUtilities ( Text/EditDistance/ArrayUtilities.hs, dist/build/Text/EditDistance/ArrayUtilities.o )
+[2 of 7] Compiling Text.EditDistance.MonadUtilities ( Text/EditDistance/MonadUtilities.hs, dist/build/Text/EditDistance/MonadUtilities.o )
+[3 of 7] Compiling Text.EditDistance.Bits ( Text/EditDistance/Bits.hs, dist/build/Text/EditDistance/Bits.o )
+[4 of 7] Compiling Text.EditDistance.EditCosts ( Text/EditDistance/EditCosts.hs, dist/build/Text/EditDistance/EditCosts.o )
+[5 of 7] Compiling Text.EditDistance.SquareSTUArray ( Text/EditDistance/SquareSTUArray.hs, dist/build/Text/EditDistance/SquareSTUArray.o )
+[6 of 7] Compiling Text.EditDistance.STUArray ( Text/EditDistance/STUArray.hs, dist/build/Text/EditDistance/STUArray.o )
+[7 of 7] Compiling Text.EditDistance ( Text/EditDistance.hs, dist/build/Text/EditDistance.o )
+Installing library in
+/home/travis/.cabal/store/ghc-7.8.4/edit-distance-0.2.2.1-2ae6be91cdeb86ee04eb87b16be52e4bea6902cd5986af3db90a6b9f3010bb46/lib
+Creating package registration file:
+/home/travis/build/ezyang/cabal/dist-newstyle/tmp/package-registration-10599613932089018456

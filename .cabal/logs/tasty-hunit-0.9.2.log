@@ -1,0 +1,10 @@
+Configuring tasty-hunit-0.9.2...
+Building tasty-hunit-0.9.2...
+Preprocessing library tasty-hunit-0.9.2...
+[1 of 3] Compiling Test.Tasty.HUnit.Orig ( Test/Tasty/HUnit/Orig.hs, dist/build/Test/Tasty/HUnit/Orig.o )
+[2 of 3] Compiling Test.Tasty.HUnit.Steps ( Test/Tasty/HUnit/Steps.hs, dist/build/Test/Tasty/HUnit/Steps.o )
+[3 of 3] Compiling Test.Tasty.HUnit ( Test/Tasty/HUnit.hs, dist/build/Test/Tasty/HUnit.o )
+Installing library in
+/home/travis/.cabal/store/ghc-7.8.4/tasty-hunit-0.9.2-2b15a681e367c35c9489d9e3b9195e78159373fd25d3769f7fd43480d497bdd0/lib
+Creating package registration file:
+/home/travis/build/ezyang/cabal/dist-newstyle/tmp/package-registration-13093833031129033333

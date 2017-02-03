@@ -1,0 +1,11 @@
+Configuring integer-logarithms-1.0.1...
+Building integer-logarithms-1.0.1...
+Preprocessing library integer-logarithms-1.0.1...
+[1 of 4] Compiling GHC.Integer.Logarithms.Compat ( src/GHC/Integer/Logarithms/Compat.hs, dist/build/GHC/Integer/Logarithms/Compat.o )
+[2 of 4] Compiling Math.NumberTheory.Powers.Integer ( src/Math/NumberTheory/Powers/Integer.hs, dist/build/Math/NumberTheory/Powers/Integer.o )
+[3 of 4] Compiling Math.NumberTheory.Powers.Natural ( src/Math/NumberTheory/Powers/Natural.hs, dist/build/Math/NumberTheory/Powers/Natural.o )
+[4 of 4] Compiling Math.NumberTheory.Logarithms ( src/Math/NumberTheory/Logarithms.hs, dist/build/Math/NumberTheory/Logarithms.o )
+Installing library in
+/home/travis/.cabal/store/ghc-7.8.4/integer-logarithms-1.0.1-dc575fb39649626f560e718fdd83bbcf18f67bcdbd083d484ffee859f3d575f6/lib
+Creating package registration file:
+/home/travis/build/ezyang/cabal/dist-newstyle/tmp/package-registration-10599613932089018456
