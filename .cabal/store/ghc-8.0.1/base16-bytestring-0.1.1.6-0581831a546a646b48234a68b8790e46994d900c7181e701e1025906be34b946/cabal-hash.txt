@@ -1,0 +1,8 @@
+pkgid: base16-bytestring-0.1.1.6
+src: 5afe65a152c5418f5f4e3579a5e0d5ca19c279dc9bf31c1a371ccbe84705c449
+deps: base-4.9.0.0, bytestring-0.10.8.1, ghc-prim-0.5.0.0
+compilerid: ghc-8.0.1
+platform: x86_64-linux
+shared-lib: True
+stripped-exe: False
+debug-info: 0

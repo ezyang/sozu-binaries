@@ -1,0 +1,8 @@
+pkgid: old-locale-1.0.0.7
+src: dbaf8bf6b888fb98845705079296a23c3f40ee2f449df7312f7f7f1de18d7b50
+deps: base-4.9.0.0
+compilerid: ghc-8.0.1
+platform: x86_64-linux
+shared-lib: True
+stripped-exe: False
+debug-info: 0

@@ -1,0 +1,9 @@
+pkgid: zlib-0.6.1.2
+src: e4eb4e636caf07a16a9730ce469a00b65d5748f259f43edd904dd457b198a2bb
+deps: base-4.9.0.0, bytestring-0.10.8.1
+compilerid: ghc-8.0.1
+platform: x86_64-linux
+flags: -non-blocking-ffi
+shared-lib: True
+stripped-exe: False
+debug-info: 0
