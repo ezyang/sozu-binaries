@@ -1,0 +1,7 @@
+pkgid: random-1.1
+src: b718a41057e25a3a71df693ab0fe2263d492e759679b3c2fea6ea33b171d3a5a
+deps: base-4.5.1.0-6e4c9bdc36eeb9121f27ccbbcb62e3f3, time-1.4-d61e2caaa0486655b4e141dc277ed49f
+compilerid: ghc-7.4.2
+platform: x86_64-linux
+stripped-exe: False
+debug-info: 0

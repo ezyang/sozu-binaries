@@ -1,0 +1,8 @@
+pkgid: vector-0.12.0.0
+src: 27bf375d0efbff61acaeb75a2047afcbdac930191069a59da4a474b9bf80ec95
+deps: base-4.5.1.0-6e4c9bdc36eeb9121f27ccbbcb62e3f3, deepseq-1.3.0.0-c26e15897417ecd448742528253d68f6, ghc-prim-0.2.0.0-7d3c2c69a5e8257a04b2c679c40e2fa7, primitive-0.6.2.0-c4f6108284de8e002b9e76e3e707b4fa09fc72b154c3a80bae37942e93f502be, semigroups-0.18.2-f43835c2597d24a296a820d5c6c18a99af3eff8c7b7bd8d3d6d696bc5faefe5b
+compilerid: ghc-7.4.2
+platform: x86_64-linux
+flags: +boundschecks -internalchecks -unsafechecks -wall
+stripped-exe: False
+debug-info: 0
