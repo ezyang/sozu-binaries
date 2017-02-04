@@ -1,0 +1,9 @@
+pkgid: zlib-0.6.1.2
+src: e4eb4e636caf07a16a9730ce469a00b65d5748f259f43edd904dd457b198a2bb
+deps: base-4.8.2.0-cc43d8e06aa74e9c4c0132becc49ee25, bytestring-0.10.6.0-8363d61ddfe397e767bde0e3fed6260e
+compilerid: ghc-7.10.3
+platform: x86_64-osx
+flags: -non-blocking-ffi
+shared-lib: True
+stripped-exe: False
+debug-info: 0

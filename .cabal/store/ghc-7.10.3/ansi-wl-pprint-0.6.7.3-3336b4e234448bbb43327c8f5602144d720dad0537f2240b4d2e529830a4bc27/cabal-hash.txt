@@ -1,0 +1,9 @@
+pkgid: ansi-wl-pprint-0.6.7.3
+src: 3789ecaa89721eabef58ddc5711f7fd1ff67e262da1659f3b20d38a9e1f5b708
+deps: ansi-terminal-0.6.2.3-65ee85eee5c7363efb7154209240e485d796c6d4c59c2736dc862a6b433bbec0, base-4.8.2.0-cc43d8e06aa74e9c4c0132becc49ee25
+compilerid: ghc-7.10.3
+platform: x86_64-osx
+flags: -example +newbase
+shared-lib: True
+stripped-exe: False
+debug-info: 0

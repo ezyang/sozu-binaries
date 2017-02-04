@@ -1,0 +1,9 @@
+pkgid: regex-base-0.93.2
+src: 20dc5713a16f3d5e2e6d056b4beb9cfdc4368cd09fd56f47414c847705243278
+deps: array-0.5.1.0-960bf9ae8875cc30355e086f8853a049, base-4.8.2.0-cc43d8e06aa74e9c4c0132becc49ee25, bytestring-0.10.6.0-8363d61ddfe397e767bde0e3fed6260e, containers-0.5.6.2-68e3ece8a4f91a31e327fe89f8052a53, mtl-2.2.1-0a965101a02ed1446f38e148c6a77f8a5e7ed1553e4f96a17cd53c25a991c1ef
+compilerid: ghc-7.10.3
+platform: x86_64-osx
+flags: +newbase +splitbase
+shared-lib: True
+stripped-exe: False
+debug-info: 0

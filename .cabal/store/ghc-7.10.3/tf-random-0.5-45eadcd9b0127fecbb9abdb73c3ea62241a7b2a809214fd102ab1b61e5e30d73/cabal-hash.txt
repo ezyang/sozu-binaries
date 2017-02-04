@@ -1,0 +1,8 @@
+pkgid: tf-random-0.5
+src: 2e30cec027b313c9e1794d326635d8fc5f79b6bf6e7580ab4b00186dadc88510
+deps: base-4.8.2.0-cc43d8e06aa74e9c4c0132becc49ee25, primitive-0.6.2.0-03d4605854cdf0f97df07e517f2fbee2bb2aa07eb9ac3dd6dca480ee2990987c, random-1.1-83200eb2fe1637f3ebcf3617b5866d562aaa07184ddbd3041fb7f591630d155d, time-1.5.0.1-14681d29751415f1a49b9321095eae91
+compilerid: ghc-7.10.3
+platform: x86_64-osx
+shared-lib: True
+stripped-exe: False
+debug-info: 0

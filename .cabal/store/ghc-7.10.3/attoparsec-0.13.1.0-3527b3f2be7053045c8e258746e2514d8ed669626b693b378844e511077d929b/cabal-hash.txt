@@ -1,0 +1,9 @@
+pkgid: attoparsec-0.13.1.0
+src: 52dc74d4955e457ce4f76f5c9d6dba05c1d07e2cd2a542d6251c6dbc66ce3f64
+deps: array-0.5.1.0-960bf9ae8875cc30355e086f8853a049, base-4.8.2.0-cc43d8e06aa74e9c4c0132becc49ee25, bytestring-0.10.6.0-8363d61ddfe397e767bde0e3fed6260e, containers-0.5.6.2-68e3ece8a4f91a31e327fe89f8052a53, deepseq-1.4.1.1-8eec8f9bea2efc2500f63544ec6ca569, fail-4.9.0.0-0159691c9bb52b81672f7abc026d2eaffa1587c2ab3364405a694df65e1d34b9, scientific-0.3.4.10-7c3371e10506b1bb404b01fa632fba1e28d40e37e629a56f8315196f876e7444, semigroups-0.18.2-277ffd035007dd622c97047e3c017e5840269f293f1dae0bfb49404bc6e20328, text-1.2.2.1-621eb2118143cee2a9e1e92a8f0bb669fb0df3f8704862a96cce252c7aa855b2, transformers-0.4.2.0-81450cd8f86b36eaa8fa0cbaf6efc3a3
+compilerid: ghc-7.10.3
+platform: x86_64-osx
+flags: -developer
+shared-lib: True
+stripped-exe: False
+debug-info: 0

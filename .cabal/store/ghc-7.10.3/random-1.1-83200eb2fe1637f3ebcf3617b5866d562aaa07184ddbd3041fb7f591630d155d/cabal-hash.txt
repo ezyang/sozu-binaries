@@ -1,0 +1,8 @@
+pkgid: random-1.1
+src: b718a41057e25a3a71df693ab0fe2263d492e759679b3c2fea6ea33b171d3a5a
+deps: base-4.8.2.0-cc43d8e06aa74e9c4c0132becc49ee25, time-1.5.0.1-14681d29751415f1a49b9321095eae91
+compilerid: ghc-7.10.3
+platform: x86_64-osx
+shared-lib: True
+stripped-exe: False
+debug-info: 0

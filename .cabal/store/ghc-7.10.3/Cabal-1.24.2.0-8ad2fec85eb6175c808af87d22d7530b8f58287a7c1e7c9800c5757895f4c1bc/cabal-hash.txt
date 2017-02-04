@@ -1,0 +1,9 @@
+pkgid: Cabal-1.24.2.0
+src: b7d0eb8e3503fbca460c0a6ca5c88352cecfe1b69e0bbc79827872134ed86340
+deps: array-0.5.1.0-960bf9ae8875cc30355e086f8853a049, base-4.8.2.0-cc43d8e06aa74e9c4c0132becc49ee25, binary-0.7.5.0-6e00b63f955513e2407019611c681b56, bytestring-0.10.6.0-8363d61ddfe397e767bde0e3fed6260e, containers-0.5.6.2-68e3ece8a4f91a31e327fe89f8052a53, deepseq-1.4.1.1-8eec8f9bea2efc2500f63544ec6ca569, directory-1.2.2.0-3b3e1a8d629ccaa6c4588a9bb46bb163, filepath-1.4.0.0-f97d1e4aebfd7a03be6980454fe31d6e, pretty-1.1.2.0-19fde7e4235a5fccb7e53c1108876812, process-1.2.3.0-a1a69425f3f6c11a82785be7baab3b68, time-1.5.0.1-14681d29751415f1a49b9321095eae91, unix-2.7.1.0-3d39e78228b30316716e447e1283b3f0
+compilerid: ghc-7.10.3
+platform: x86_64-osx
+flags: -bundled-binary-generic
+shared-lib: True
+stripped-exe: False
+debug-info: 0
