@@ -1,0 +1,9 @@
+pkgid: tagged-0.8.5
+src: e47c51c955ed77b0fa36897f652df990aa0a8c4eb278efaddcd604be00fc8d99
+deps: base-4.7.0.2-bfd89587617e381ae01b8dd7b6c7f1c1, deepseq-1.3.0.2-63a1ab91b7017a28bb5d04cb1b5d2d02, template-haskell-2.9.0.0-6d27c2b362b15abb1822f2f34b9ae7f9, transformers-0.5.2.0-bb451d0c158a1db39b01c2f1eeb3549846771f1b2ff37c560dbd7de606d0a13d, transformers-compat-0.5.1.4-1d79e371d2450b9ba075710e6d3fe971716e5ed1649bd48b5344c5f35e6c9837
+compilerid: ghc-7.8.4
+platform: x86_64-linux
+flags: +deepseq +transformers
+shared-lib: True
+stripped-exe: False
+debug-info: 0
