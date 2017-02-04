@@ -1,0 +1,8 @@
+pkgid: network-uri-2.6.1.0
+src: 423e0a2351236f3fcfd24e39cdbc38050ec2910f82245e69ca72a661f7fc47f0
+deps: base-4.9.0.0, deepseq-1.4.2.0, parsec-3.1.11-c8810e7fcfea0b319d546030b233238f959cd08299b89180ca98c81db6c5dc5f
+compilerid: ghc-8.0.1
+platform: x86_64-linux
+shared-lib: True
+stripped-exe: False
+debug-info: 0

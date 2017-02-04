@@ -1,0 +1,8 @@
+pkgid: tasty-0.11.1
+src: ab9f83401ba8b99d05bc85e2447e32416da593684daae14647777db8bb5eabdc
+deps: ansi-terminal-0.6.2.3-1c035419f979a5f36ea8dd5d2190262744b4be19f125fbd5a37c06b4521d571d, async-2.1.1-eb6cbf1ccbb352a0af17a55ecea2b1e4ba419b57e1cc83de1c7a39db7eaa70bf, base-4.9.0.0, clock-0.7.2-f7bbbe23389d0d21e0674117ade8b1ebfca0e0c3219d350650a9dfb98261cd3d, containers-0.5.7.1, deepseq-1.4.2.0, mtl-2.2.1-73acc432434c4b2f9e3f6a41899e7704966183fd32dc7d095e7f7d4a28f0663e, optparse-applicative-0.12.1.0-7c435e464d9d7543f2a4920ca058bffb60e7720eee8ac959c8bb199f2c8d5751, regex-tdfa-1.2.2-7b92692bc9414f850f8d8656deecc0f2befff5f9cb17a2f7d933b9f91610f0ab, stm-2.4.4.1-d538ed94796380538f3e84756206fdbe52eac32676d556a60f366bef510df939, tagged-0.8.5-b2c421d27255ee7f3be6a6ec2dad7154954fa617fa1e60b3f1bdfeb9514e672d, unbounded-delays-0.1.0.9-c348f94e55cf0f4b0cc084b475c4032f5964bd9969e7ea9a9a8ce1ef08e6ff8a
+compilerid: ghc-8.0.1
+platform: x86_64-linux
+shared-lib: True
+stripped-exe: False
+debug-info: 0

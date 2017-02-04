@@ -1,0 +1,9 @@
+pkgid: time-locale-compat-0.1.1.3
+src: 9144bf68b47791a2ac73f45aeadbc5910be2da9ad174909e1a10a70b4576aced
+deps: base-4.9.0.0, time-1.6.0.1
+compilerid: ghc-8.0.1
+platform: x86_64-linux
+flags: -old-locale
+shared-lib: True
+stripped-exe: False
+debug-info: 0
