@@ -1,0 +1,9 @@
+pkgid: integer-logarithms-1.0.1
+src: 0f453f8eb8b19122eac37d04ea95e9da5f9f07eb9ad750c174c3522e7d3a784c
+deps: array-0.5.1.1, base-4.9.0.0, ghc-prim-0.5.0.0, integer-gmp-1.0.0.1
+compilerid: ghc-8.0.1
+platform: x86_64-linux
+flags: -check-bounds +integer-gmp
+shared-lib: True
+stripped-exe: False
+debug-info: 0
