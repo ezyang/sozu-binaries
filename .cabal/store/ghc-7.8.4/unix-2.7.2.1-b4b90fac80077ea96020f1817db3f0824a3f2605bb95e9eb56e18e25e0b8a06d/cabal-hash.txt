@@ -1,0 +1,8 @@
+pkgid: unix-2.7.2.1
+src: fc05365594367779122465eee132162267c319c3679ff801f050ed30d18d099c
+deps: base-4.7.0.2-918c7ac27f65a87103264a9f51652d63, bytestring-0.10.4.0-78bc8f2c724c765c78c004a84acf6cc3, time-1.4.2-192d26f44a2c945780bbb921626c3399
+compilerid: ghc-7.8.4
+platform: x86_64-osx
+shared-lib: True
+stripped-exe: False
+debug-info: 0

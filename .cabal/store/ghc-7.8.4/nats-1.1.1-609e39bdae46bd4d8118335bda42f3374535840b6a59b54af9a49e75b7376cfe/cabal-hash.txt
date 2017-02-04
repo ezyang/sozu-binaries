@@ -1,0 +1,9 @@
+pkgid: nats-1.1.1
+src: 131d1b4857cd1c0699ef60aeb41af923ee3e0ecd26ed1324c067d993bc17d4cd
+deps: base-4.7.0.2-918c7ac27f65a87103264a9f51652d63, binary-0.7.1.0-108d06eea2ef05e517f9c1facf10f63c, hashable-1.2.5.0-5ebc863a7d609aa1f12328162f29737912346cb6ba321ded3f86e1fe49ff3a54, template-haskell-2.9.0.0-baa268c6bee8dd7155e7328b8c5c4576
+compilerid: ghc-7.8.4
+platform: x86_64-osx
+flags: +binary +hashable +template-haskell
+shared-lib: True
+stripped-exe: False
+debug-info: 0

@@ -1,0 +1,8 @@
+pkgid: primitive-0.6.2.0
+src: b8e8d70213e22b3fab0e0d11525c02627489618988fdc636052ca0adce282ae1
+deps: base-4.7.0.2-918c7ac27f65a87103264a9f51652d63, ghc-prim-0.3.1.0-a24f9c14c632d75b683d0f93283aea37, transformers-0.5.2.0-1b73a1d7cae4d15b1400dd98d0d36101ee0b33b412013ffa54a25be3da147276
+compilerid: ghc-7.8.4
+platform: x86_64-osx
+shared-lib: True
+stripped-exe: False
+debug-info: 0
