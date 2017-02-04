@@ -1,0 +1,9 @@
+pkgid: regex-posix-0.95.2
+src: 56019921cd4a4c9682b81ec614236fea816ba8ed8785a1640cd66d8b24fc703e
+deps: array-0.5.1.0-960bf9ae8875cc30355e086f8853a049, base-4.8.2.0-0d6d1084fbc041e1cded9228e80e264d, bytestring-0.10.6.0-c60f4c543b22c7f7293a06ae48820437, containers-0.5.6.2-e59c9b78d840fa743d4169d4bea15592, regex-base-0.93.2-b0e652e8ba96325a6829f9eca5230db9821459795cb3c389868309fa69015718
+compilerid: ghc-7.10.3
+platform: x86_64-linux
+flags: +newbase +splitbase
+shared-lib: True
+stripped-exe: False
+debug-info: 0

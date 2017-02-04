@@ -1,0 +1,8 @@
+pkgid: pretty-show-1.6.12
+src: 9629c98ac0f2eb215cd81cf61321c5181acd18df35d89817093e934f786774b9
+deps: array-0.5.1.0-960bf9ae8875cc30355e086f8853a049, base-4.8.2.0-0d6d1084fbc041e1cded9228e80e264d, filepath-1.4.0.0-f97d1e4aebfd7a03be6980454fe31d6e, ghc-prim-0.4.0.0-6cdc86811872333585fa98756aa7c51e, haskell-lexer-1.0.1-dffc42398b931fcc5233643e1b0d27b4c19b7c62f7eeb81ce93fa574ca9f13ac, pretty-1.1.2.0-5cc412214ea63f61ee84c4fbabdbe0ec
+compilerid: ghc-7.10.3
+platform: x86_64-linux
+shared-lib: True
+stripped-exe: False
+debug-info: 0

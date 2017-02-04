@@ -1,0 +1,8 @@
+pkgid: edit-distance-0.2.2.1
+src: 3e8885ee2f56ad4da940f043ae8f981ee2fe336b5e8e4ba3f7436cff4f526c4a
+deps: array-0.5.1.0-960bf9ae8875cc30355e086f8853a049, base-4.8.2.0-0d6d1084fbc041e1cded9228e80e264d, containers-0.5.6.2-e59c9b78d840fa743d4169d4bea15592, random-1.1-804780afe2412bebe50bc6d5478d9aeb21cf20fb8c68ce28c7b19ff748ab5b7b
+compilerid: ghc-7.10.3
+platform: x86_64-linux
+shared-lib: True
+stripped-exe: False
+debug-info: 0

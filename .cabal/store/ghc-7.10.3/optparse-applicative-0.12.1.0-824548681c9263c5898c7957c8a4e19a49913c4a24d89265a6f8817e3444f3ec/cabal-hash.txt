@@ -1,0 +1,8 @@
+pkgid: optparse-applicative-0.12.1.0
+src: 18b46d6d2c17e941bb02f84e980390f056795dce73ece946d71d3d4d002313d5
+deps: ansi-wl-pprint-0.6.7.3-9febff4d94188a5980c3c316a60d8bd2ae67cda6f42421cd4014a9077e27ac86, base-4.8.2.0-0d6d1084fbc041e1cded9228e80e264d, process-1.2.3.0-78f206acb2330ea8066c6c19c87356f0, transformers-0.4.2.0-81450cd8f86b36eaa8fa0cbaf6efc3a3, transformers-compat-0.5.1.4-e2591d785f2f9e3ef9ad97b87ca7076db2df4bd95bc897249c72e527799b50c1
+compilerid: ghc-7.10.3
+platform: x86_64-linux
+shared-lib: True
+stripped-exe: False
+debug-info: 0
