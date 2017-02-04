@@ -1,0 +1,8 @@
+pkgid: async-2.1.1
+src: 24134b36921f9874abb73be90886b4c23a67a9b4990f2d8e32d08dbfa5f74f90
+deps: base-4.9.0.0, stm-2.4.4.1-421e188ece864947a47e77ff8b9cd756751ad0f1d0e82ccfa3c3b3167a50304c
+compilerid: ghc-8.0.1
+platform: x86_64-osx
+shared-lib: True
+stripped-exe: False
+debug-info: 0

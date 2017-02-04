@@ -1,0 +1,8 @@
+pkgid: unbounded-delays-0.1.0.9
+src: 4010ca5c4ca800039db259fc7a5180f10fc98f00580c7223ac7ad401ca4190b8
+deps: Cabal-1.24.2.0-9dd1c1b645d273e7bc7ddcdccd893e5c653b51c46b6813ba2a8cf291d3ce4859, array-0.5.1.1, base-4.9.0.0, binary-0.8.3.0, bytestring-0.10.8.1, containers-0.5.7.1, deepseq-1.4.2.0, directory-1.2.6.2, filepath-1.4.1.0, pretty-1.1.3.3, process-1.4.2.0, time-1.6.0.1, unix-2.7.2.0
+compilerid: ghc-8.0.1
+platform: x86_64-osx
+shared-lib: True
+stripped-exe: False
+debug-info: 0

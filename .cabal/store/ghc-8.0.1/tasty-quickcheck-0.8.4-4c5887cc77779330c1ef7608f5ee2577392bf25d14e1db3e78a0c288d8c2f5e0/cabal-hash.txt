@@ -1,0 +1,9 @@
+pkgid: tasty-quickcheck-0.8.4
+src: 365f4cb6db70cce36ebdc133a2f6388cab71df2ca11f223f0458565956ec3297
+deps: QuickCheck-2.9.2-a678c8e3079bfe512eb1fa9044519d9982cadf0ee01822932b37e82b8daac507, base-4.9.0.0, tagged-0.8.5-e7170196e1af70c0a351cf2bc3591f5387ac24897340a8183c1ebfdd2dada4d4, tasty-0.11.1-ae52a2b81d379382142e04562f96f94f87b14fa22cf783d96da654d720df0c6b
+compilerid: ghc-8.0.1
+platform: x86_64-osx
+flags: -old-quickcheck
+shared-lib: True
+stripped-exe: False
+debug-info: 0

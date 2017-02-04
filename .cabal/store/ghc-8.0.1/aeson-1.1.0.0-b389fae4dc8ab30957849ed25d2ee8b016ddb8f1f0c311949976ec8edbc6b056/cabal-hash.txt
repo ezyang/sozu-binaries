@@ -1,0 +1,9 @@
+pkgid: aeson-1.1.0.0
+src: 5810fc5f664855ba6457d119fffd176ee93e60a27e88f5eedc349d7d75f18880
+deps: attoparsec-0.13.1.0-917b1d50aa56eee8ca514ef31983d8600bbc50d055d3957fdbfa7c085f964002, base-4.9.0.0, base-compat-0.9.1-d1b1f025efac523270f387c716c2b7a6e9e035ea1ad58fa3d3f192d4134a9d35, bytestring-0.10.8.1, containers-0.5.7.1, deepseq-1.4.2.0, dlist-0.8.0.2-2c382cb637e302c8eccee8f7a063e4c84eab72fc465da58d13cbdc72a7da2c46, ghc-prim-0.5.0.0, hashable-1.2.5.0-5de5af90c51935beb066357bc7eb61b3c49d4df451b89b84649488344792a909, scientific-0.3.4.10-b74ea89d88d1a1d9d94273c7f83ea5705375d91db5ec219178b53332a415d540, tagged-0.8.5-e7170196e1af70c0a351cf2bc3591f5387ac24897340a8183c1ebfdd2dada4d4, template-haskell-2.11.0.0, text-1.2.2.1-d0acaa92e9fb85d7444f53f19f3d973bd65daf6a34bc69c51e7b753193495eb4, time-1.6.0.1, time-locale-compat-0.1.1.3-a40ba4520e8fdde5c354b8a743719e1117ddbb0fc34d53503db6a1a01e4cd017, unordered-containers-0.2.7.2-3d087862683ba346f7365e2ddc660c744d5c5e57d45978b1f1e1abc57d7741ee, uuid-types-1.0.3-26cf8bb899e12dfa40afb64af0212a372103bc94fc58068dc969f5c11de7826e, vector-0.12.0.0-c23575491807c6a98831c2669476ba2725fa9415e9ca4a17fac071c09ad4aa52
+compilerid: ghc-8.0.1
+platform: x86_64-osx
+flags: -bytestring-builder -developer -fast
+shared-lib: True
+stripped-exe: False
+debug-info: 0

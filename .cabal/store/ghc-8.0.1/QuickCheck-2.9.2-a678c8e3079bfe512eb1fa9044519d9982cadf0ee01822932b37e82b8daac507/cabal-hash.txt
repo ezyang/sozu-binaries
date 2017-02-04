@@ -1,0 +1,9 @@
+pkgid: QuickCheck-2.9.2
+src: 155c1656f583bc797587846ee1959143d2b1b9c88fbcb9d3f510f58d8fb93685
+deps: base-4.9.0.0, containers-0.5.7.1, random-1.1-fe6ccf72ebd63a2d68570bb45b42bd08df5570c6151cb9af54907d40ef9af454, template-haskell-2.11.0.0, tf-random-0.5-9f94fff0dfa6d72074436452e057a61663ed90cd58b8730e39b9dc2ee6b7631e, transformers-0.5.2.0
+compilerid: ghc-8.0.1
+platform: x86_64-osx
+flags: +templatehaskell
+shared-lib: True
+stripped-exe: False
+debug-info: 0

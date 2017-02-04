@@ -1,0 +1,9 @@
+pkgid: tar-0.5.0.3
+src: d8d9ad876365f88bdccd02073049e58715cd5ba94de06eb98e21d595244918a3
+deps: array-0.5.1.1, base-4.9.0.0, bytestring-0.10.8.1, containers-0.5.7.1, deepseq-1.4.2.0, directory-1.2.6.2, filepath-1.4.1.0, time-1.6.0.1
+compilerid: ghc-8.0.1
+platform: x86_64-osx
+flags: -old-bytestring -old-time
+shared-lib: True
+stripped-exe: False
+debug-info: 0

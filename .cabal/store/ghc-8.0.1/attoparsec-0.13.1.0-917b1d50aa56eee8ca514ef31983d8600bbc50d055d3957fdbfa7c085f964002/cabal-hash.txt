@@ -1,0 +1,9 @@
+pkgid: attoparsec-0.13.1.0
+src: 52dc74d4955e457ce4f76f5c9d6dba05c1d07e2cd2a542d6251c6dbc66ce3f64
+deps: array-0.5.1.1, base-4.9.0.0, bytestring-0.10.8.1, containers-0.5.7.1, deepseq-1.4.2.0, scientific-0.3.4.10-b74ea89d88d1a1d9d94273c7f83ea5705375d91db5ec219178b53332a415d540, text-1.2.2.1-d0acaa92e9fb85d7444f53f19f3d973bd65daf6a34bc69c51e7b753193495eb4, transformers-0.5.2.0
+compilerid: ghc-8.0.1
+platform: x86_64-osx
+flags: -developer
+shared-lib: True
+stripped-exe: False
+debug-info: 0
